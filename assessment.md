@@ -15,69 +15,90 @@ Replace TODOs with abbreviations, or emoji, or ...
 ### Software Development with Python
 
 * Configuring a development environment for Python
+
   TODO: add description for each assessment level for this skill.
 
 * Running Python programs with `pyenv` and `pipenv`
+
   TODO: add description for each assessment level for this skill.
 
 * Linting Python programs with `pylint` and `flake8`
+
   TODO: add description for each assessment level for this skill.
 
 * Formatting Python programs with `black`
+
   TODO: add description for each assessment level for this skill.
 
 * Basic testing of Python programs with `pytest`
+
   TODO: add description for each assessment level for this skill.
 
 * Calculating code coverage of a `pytest` test suite
+
   TODO: add description for each assessment level for this skill.
 
 * Reporting code coverage through an online provider
+
   TODO: add description for each assessment level for this skill.
 
 * Using docstrings to document a Python program
+
   TODO: add description for each assessment level for this skill.
 
 * Adopting and applying appropriate naming conventions
+
   TODO: add description for each assessment level for this skill.
 
 * Using exception handling to create a robust Python program
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Refactoring a Python program to improve its characteristics
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Debugging Python programs using logging and other methods
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Adopting and using appropriate Python language constructs
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Adopting and using appropriate Python packages
-  TODO: add description for each assessment level for this skill.
+
+ TODO: add description for each assessment level for this skill.
 
 * Adhering to industry best practices for programming in Python
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 ### Project Management with GitHub
 
 * Using the GitHub Flow model
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Using the GitHub issue tracker
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Assigning team members to issues in the GitHub issue tracker
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Creating and using a repository branch
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Creating and using a repository fork
-  TODO: add description for each assessment level for this skill.
+
+TODO: add description for each assessment level for this skill.
 
 * Merging a branch or a fork to another branch or fork
 
