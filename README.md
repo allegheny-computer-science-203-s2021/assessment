@@ -1,6 +1,6 @@
 # :crocodile: Assessment Guide for CMPSC 203 Spring 2021
 
-[![Actions Status](https://github.com/allegheny-computer-science-203-s2021/lab01-assessment/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-203-s2021/assessment/actions)
+[![Actions Status](https://github.com/allegheny-computer-science-203-s2021/assessment/workflows/linting/badge.svg)](https://github.com/allegheny-computer-science-203-s2021/assessment/actions)
 
 ## Summary
 
