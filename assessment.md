@@ -2,7 +2,7 @@
 
 ## Assessment Key
 
-Replace TODOs with abbreviations, or emoji, or ... 
+Replace TODOs with abbreviations, or emoji, or ...
 
 * TODO = None
 * TODO = Inadequate
