@@ -47,7 +47,7 @@ assessment at one of the following levels:
 * Excellent
 
 For each skill and its assessment levels, you should also clearly explain what a
-student must do to demonstrate mastery at the level of :sunglasses:. You should
+student must do to demonstrate mastery at the level "Excellent". You should
 also explain how the assessment for each of the technical and professional
 skills will result in an overall assessment for a software project. Once you are
 finished with the assessment, please update the README as necessary.
