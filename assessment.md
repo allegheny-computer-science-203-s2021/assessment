@@ -118,11 +118,11 @@ TODO: add description for each assessment level for this skill.
 
 * Creating and using a repository fork
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None: Never uses repository forks.
+* Inadequate: Sometimes uses forks, but not when appropriate.
+* Adequate: Student uses forks when necessary.
+* Good: The student uses forks often, but the student uses them when they are not always necessary.
+* Excellent: Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 * Merging a branch or a fork to another branch or fork
 
