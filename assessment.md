@@ -110,19 +110,11 @@ TODO: add description for each assessment level for this skill.
 
 * Creating and using a repository branch
 
-<<<<<<< HEAD
 - None: Never uses repository branches.
 - Inadequate: Uses repository branches when they are not appropriate.
 - Adequate: Occasionally uses branches appropriately, but needs to use them more frequently.
 - Good: Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
 - Excellent: Always uses branches when appropriate, and uses them frequently.
-=======
-* None: Have no knowledge regarding how to create or use repository branch
-* Inadequate: Know creating and using repository branch
-* Adequate:
-* Good:
-* Excellent:
->>>>>>> 4675204e6fed0557c135fa3b9d6a5c75baf442b5
 
 * Creating and using a repository fork
 
