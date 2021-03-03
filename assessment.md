@@ -222,8 +222,8 @@ installation of the necessary tools needed to test the software:
 Understanding and using refactoring to improve code readability and performance.
 
   * None = Does not utilize appropriate refactoring at all, code may be unreadable or messy.
-  * Inadequate = Begins to utilize refactoring but it does not lead to improvements in the readability of the code, or the refactoring changes the functionality of the code inappropriately. Refactoring may have introduced new bugs and problems that remain unsolved.
-  * Adequate = Sometimes utilizes refactoring when necessary, making the code cleaner. Refactoring may improve code performance. Code may still be messy but is not unreadable. Refactoring does not change functionality of code.
+  * Inadequate = Begins to utilize refactoring but it does not lead to improvements in the readability or performance of the code, or the refactoring changes the functionality of the code inappropriately. Refactoring may have introduced new bugs and problems that remain unsolved.
+  * Adequate = Sometimes utilizes refactoring when necessary, making the code cleaner. Refactoring does not fix performance issues. Code may still be messy but is not unreadable. Refactoring does not change functionality of code.
   * Good = Often uses refactoring when necessary. Code is readable. Refactoring fixes some code performance issues. The functionality of the code does not change.
   * Excellent = Always uses refactoring when necessary. Code is clean and easily readable. Refactoring is used to eliminate any bugs, simplify code, and improve software performance. There is no change to functionality.
 
