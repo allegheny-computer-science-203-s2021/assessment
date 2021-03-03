@@ -185,7 +185,13 @@ TODO: add description for each assessment level for this skill.
 
 * Mitigating software risk
 
-TODO: add description for each assessment level for this skill.
+Ability to plan for and mitigate risks.
+
+  * None = Does not attempt to mitigate or identify potential risks. Does not make an effort to communicate with teammates or handle problems.
+  * Inadequate = Makes little attempt to mitigate or identify risks. Low effort in communication and planning.
+  * Adequate = Makes an attempt to mitigate and identify risks. Communicates with teammates about some risks but may not be adequately prepared.
+  * Good = Makes a good attempt at identifying and mitigating potential risks. Takes some early action to prevent problems. Often communicates with teammates about potential issues. Is often able to handle unexpected problems.  
+  * Excellent = Identifies potential risks and actively works to avoid them. Communicates with group members to effectively prevent and manage any risks or problems. Is able to handle unexpected problems when they do appear and asks for help when appropriate.
 
 * Software testing
 
