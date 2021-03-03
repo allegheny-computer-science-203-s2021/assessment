@@ -160,7 +160,7 @@ The architecture of the software will be evaluated on this scale:
   * Adequate = The program displays experience and understanding of software architecture with minimal flow and design issues.
   * Good = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
   * Excellent = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. Develops concepts and is able to help other team members with the architecture of their software.
-  
+
 * Software design
 
 Creating the best software blueprint to most efficiently solve a particular problem.
