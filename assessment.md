@@ -259,13 +259,3 @@ TODO: add description for each assessment level for this skill.
 TODO: add description for each assessment level for this skill.
 
 * Interaction with the student technical leaders
-
-- None: Students don't ask or raise their own concern with TLs at any point of the class. Students also don't response to any question of TL on the chat or on Zoom.
-
-- Inadequate: Students ask or raise their concern no more than 3 times during the class, lab, and practicals. These students seldomly response to TLs' question.
-
-- Adequate: These students ask or raise their concern occasionally during the class. They also corporate with TLs on difficult task. They response to all matters that TLs ask them.
-
-- Good: These students frequently voice out their concerns during the class with TLs. They also use Slack to contact with TLs. They also response to all matters that TLs ask them.
-
-- Excellent: These students regularly voice out their concerns during the class with TLs. They also use Slack to contact with TLs. They also response to all matters that TLs ask them. They also come to TLs' office hours to discuss their problem with the assignments. 
