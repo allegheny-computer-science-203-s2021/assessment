@@ -94,11 +94,11 @@ TODO: add description for each assessment level for this skill.
 
 * Assigning team members to issues in the GitHub issue tracker
 
-* None: Student clearly does not know how or when to assign members to issues.
-* Inadequate: Student knows how to add members to issues, but never does this appropriately.
-* Adequate: Student communicates with members sometimes, but needs to check with the team more often when assigning members to issues.
-* Good: Student knows how and when to add members to issues, but sometimes does not communicate with the team on what they are doing.
-* Excellent: Communication and knowledge is superior.  Student's teammates are always aware and have agreed upon which issues they are going to be assigned to.
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
@@ -142,7 +142,7 @@ TODO: add description for each assessment level for this skill.
 
 * Using appropriate commit messages
 
-* None: Left no commit messages.
+* None:
 * Inadequate:
 * Adequate:
 * Good:
