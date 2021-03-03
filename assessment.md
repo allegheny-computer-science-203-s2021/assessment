@@ -78,39 +78,75 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub Flow model
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Using the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Assigning team members to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Creating and using a repository branch
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Creating and using a repository fork
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Merging a branch or a fork to another branch or fork
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Creating and reviewing a pull request
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 * Using appropriate commit messages
 
-TODO: add description for each assessment level for this skill.
+- None:
+- Inadequate:
+- Adequate:
+- Good:
+- Excellent:
 
 ### Continuous Integration with Github Actions
 
