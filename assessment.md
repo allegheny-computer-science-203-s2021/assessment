@@ -252,8 +252,6 @@ The objective for the interaction with a customer is supposed to be smooth and e
 
 * Interaction with the team leaders
 
-TODO: add description for each assessment level for this skill.
-
 - **None**: refuses to interact with and/or work with team leader(s). Ignores advisement or assignment from team leader.
 - **Inadequate**: Interacts with and occasionally works with the team leader(s), but does not actively participate in completing tasks assigned by the team leader(s).
 - **Adequate**: Interacts with and works with the team leader(s) while completing most of the tasks assigned to them by the team leader(s).
