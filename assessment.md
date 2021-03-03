@@ -159,7 +159,13 @@ TODO: add description for each assessment level for this skill.
 
 * Programming styles
 
-TODO: add description for each assessment level for this skill.
+Programming styles will be evaluated on the following levels:
+
+* None = Does not have the ability to program at all in any style.
+* Inadequate = Programming style is completely akin to "spaghetti code."
+* Adequate = Programming style is slightly akin to "spaghetti code." with some correct naming conventions, indentations, and little or non-descriptive commenting.
+* Good = Programming style is fairly thorough and mostly uses proper naming conventions, indentations, and a fair amount of commenting. Styling is mostly consistent at this level.
+* Excellent = Programming style is very thorough and uses proper naming conventions, indentations, and is descriptively commented throughout. Styling is consistent at this level.
 
 * Managing software complexity
 
@@ -181,7 +187,7 @@ installation of the necessary tools needed to test the software:
   * Excellent = identifies and understands which tools to use to test the software while
     also providing documentation and advice that helps other team members develop
     this skill.
-    
+
 * Software refactoring
 
 TODO: add description for each assessment level for this skill.
