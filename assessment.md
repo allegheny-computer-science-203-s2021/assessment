@@ -239,8 +239,16 @@ TODO: add description for each assessment level for this skill.
 ### Interactions
 
 * Interaction with the customers
+- SERVICE
+- Social
+- Eager
+- Replace
+- Verbal Communication
+- Informative
+- Countability
+- Easy
 
-TODO: add description for each assessment level for this skill.
+The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
 
 * Interaction with the team leaders
 
