@@ -238,7 +238,15 @@ TODO: add description for each assessment level for this skill.
 
 * Decisions
 
-TODO: add description for each assessment level for this skill.
+None: Makes decisions without consulting the rest of the group.
+
+Inadequate: Consults the group, but still makes their own decisions.
+
+Adequate: Consults the group to come to a consensus of what decision should be made.
+
+Good: Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
+
+Excellent: Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
 
 * Postmortems
 
