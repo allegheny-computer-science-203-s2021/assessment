@@ -254,11 +254,11 @@ The objective for the interaction with a customer is supposed to be smooth and e
 
 TODO: add description for each assessment level for this skill.
 
-- None: refuses to interact with and/or work with team leader(s). Ignores advisement or assignment from team leader.
-- Inadequate: Interacts with and occasionally works with the team leader(s), but does not actively participate in completing tasks assigned by the team leader(s).
-- Adequate: Interacts with and works with the team leader(s) while completing most of the tasks assigned to them by the team leader(s).
-- Good: Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s).
-- Excellent: Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
+- **None**: refuses to interact with and/or work with team leader(s). Ignores advisement or assignment from team leader.
+- **Inadequate**: Interacts with and occasionally works with the team leader(s), but does not actively participate in completing tasks assigned by the team leader(s).
+- **Adequate**: Interacts with and works with the team leader(s) while completing most of the tasks assigned to them by the team leader(s).
+- **Good**: Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s).
+- **Excellent**: Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
 
 * Interaction with the course instructor
 
