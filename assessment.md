@@ -28,7 +28,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Linting Python programs with `pylint` and `flake8`
 
-  TODO: add description for each assessment level for this skill.
+  * 😳 = `pylint` and `flake8` are not installed on machine 
+  * 😟 = `pylint` and `flake8` are installed but not setup for use on machine
+  * 😐 = `pylint` and `flake8` are setup and able to be used on code in text editor
+  * 😊 = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
+  * 😆 = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting
 
 * Formatting Python programs with `black`
 
