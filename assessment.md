@@ -134,11 +134,11 @@ TODO: add description for each assessment level for this skill.
 
 * Creating and reviewing a pull request
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+- None: Do not know how to review a pull request
+- Inadequate: Have knowledge of pull requests, but fail to act upon it
+- Adequate: Review pull requests and act on steps required, but fail to know how to fix all conflicts
+- Good: Review pull requests and act on steps required while avoiding merge conflicts
+- Excellent: Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
