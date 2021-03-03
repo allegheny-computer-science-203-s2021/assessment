@@ -36,128 +36,128 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Calculating code coverage of a `pytest` test suite
 
-  None =
+ * None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Reporting code coverage through an online provider
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Using docstrings to document a Python program
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Adopting and applying appropriate naming conventions
 
-  None = Uses unclear and not concise naming conventions to convey what the
+ *None = Uses unclear and not concise naming conventions to convey what the
 programmer is doing through the whole program
 
-  Inadequate = Uses clear and concise naming conventions to convey what the
+ *Inadequate = Uses clear and concise naming conventions to convey what the
 programmer is doing for a small portion of the program
 
-  Adequate = Uses clear and concise naming conventions to convey what the
+ *Adequate = Uses clear and concise naming conventions to convey what the
 programmer is doing for some of the program
 
-  Good = Uses clear and concise naming conventions to convey what the
+ *Good = Uses clear and concise naming conventions to convey what the
 programmer is doing for most of the program
 
-  Excellent  Utilizes clear and concise naming conventions to convey
+ *Excellent  Utilizes clear and concise naming conventions to convey
 what the programmer is doing throughout the whole program
 
 * Using exception handling to create a robust Python program
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Refactoring a Python program to improve its characteristics
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Debugging Python programs using logging and other methods
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Adopting and using appropriate Python language constructs
 
-  None = Failure to understand or use basic Python language constructs.
+ *None = Failure to understand or use basic Python language constructs.
 
-  Inadequate = Makes an attempt to use Python language construct but lacks understanding of fundamentals.
+ *Inadequate = Makes an attempt to use Python language construct but lacks understanding of fundamentals.
 
-  Adequate = Able to apply Python language on a somewhat consistent basis and have a generally understanding on the fundamentals.
+ *Adequate = Able to apply Python language on a somewhat consistent basis and have a generally understanding on the fundamentals.
 
-  Good = Able to utilize the language to a fairly proficient degree and have a good grasp on the fundamentals.
+ *Good = Able to utilize the language to a fairly proficient degree and have a good grasp on the fundamentals.
 
-  Excellent = Clear and concise use of Python language, knowing what the use for the right situations.
+ *Excellent = Clear and concise use of Python language, knowing what the use for the right situations.
 
 * Adopting and using appropriate Python packages
 
-  None =
+ *None =
 
-  Inadequate =
+ *Inadequate =
 
-  Adequate =
+ *Adequate =
 
-  Good =
+ *Good =
 
-  Excellent =
+ *Excellent =
 
 * Adhering to industry best practices for programming in Python
 
-  None = Does not make an attempt to adhere to industry best practices.
+ *None = Does not make an attempt to adhere to industry best practices.
 
-  Inadequate = Attempts to adhere to industry best practices but does not meet the satisfactions.
+ *Inadequate = Attempts to adhere to industry best practices but does not meet the satisfactions.
 
-  Adequate = Successfully adheres to industry best practices with room for improvement.
+ *Adequate = Successfully adheres to industry best practices with room for improvement.
 
-  Good = Successfully adheres to industry best practices with minor room for improvement.
+ *Good = Successfully adheres to industry best practices with minor room for improvement.
 
-  Excellent = Nearly perfectly adheres to industry best practices with very little error.
+ *Excellent = Nearly perfectly adheres to industry best practices with very little error.
 
 ### Project Management with GitHub
 
