@@ -171,8 +171,17 @@ TODO: add description for each assessment level for this skill.
 
 * Software testing
 
-TODO: add description for each assessment level for this skill.
+Understanding and successfully completing software testing through the correct
+installation of the necessary tools needed to test the software:
 
+  * None = Does not have the tools installed to test the Software.
+  * Inadequate = Has the correct tools installed but does not test the software with them.
+  * Adequate = Has the correct tools installed, but only tests some of the Software.
+  * Good = Has the correct tools installed and tests more or all of the Software.
+  * Excellent = identifies and understands which tools to use to test the software while
+    also providing documentation and advice that helps other team members develop
+    this skill.
+    
 * Software refactoring
 
 TODO: add description for each assessment level for this skill.
