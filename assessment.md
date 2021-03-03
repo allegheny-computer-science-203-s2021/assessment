@@ -138,8 +138,8 @@ TODO: add description for each assessment level for this skill.
 * Identifying and resolving problems with failing builds in GitHub Actions CI
   * None = Ignores all problems in GitHub Actions CI, routinely submits failing builds.
   * Inadequate =
-  * Adequate = 
-  * Good = 
+  * Adequate =
+  * Good =
   * Excellent =
 
 ### Foundations of Software Engineering
