@@ -153,7 +153,13 @@ TODO: add description for each assessment level for this skill.
 
 * Software design
 
-TODO: add description for each assessment level for this skill.
+Creating the best software blueprint to most efficiently solve a particular problem.
+
+  * None = Doesn't even attempt to solve the problem.
+  * Inadequate = Creates incorrect software to solve the problem.
+  * Adequate = Creates correct software to solve the problem.
+  * Good = Creates correct and efficient software to solve the problem.
+  * Excellent = Creates correct and efficient software while constantly thinking of how to make it more efficient.
 
 * Software documentation
 
