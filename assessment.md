@@ -181,7 +181,7 @@ installation of the necessary tools needed to test the software:
   * Excellent = identifies and understands which tools to use to test the software while
     also providing documentation and advice that helps other team members develop
     this skill.
-    
+
 * Software refactoring
 
 TODO: add description for each assessment level for this skill.
@@ -198,6 +198,13 @@ TODO: add description for each assessment level for this skill.
   * Foundations of software engineering
 
 TODO: add description for each assessment level for this skill.
+
+* Continuous learning
+  * None = Doesn't want to communicate or cooperate with others.  
+  * Inadequate = Willing to cooperate with others and willing to help others improve.
+  * Adequate = Willing to cooperate with others, helping others learn the material, and showing Understanding of the material.  
+  * Good = Willing to cooperate with his/her team members, solve/offer solutions to problems, has a good Foundations for software engineering, and understands how to use Python  
+  * Excellent = Willing to communicate with others, has great attitude for learning and improving. Has mastery of Python and software engineering. Willing to help others solve/resolve problems.  
 
 * Understanding and avoiding red flags
 
