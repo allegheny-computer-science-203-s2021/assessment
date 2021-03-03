@@ -142,11 +142,11 @@ TODO: add description for each assessment level for this skill.
 
 * Using appropriate commit messages
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+- None: Left no commit message.
+- Inadequate: Left a commit message that explains nothing about the commit.
+- Adequate: Left a commit message that explains in little detail what was committed.
+- Good: Left a commit message that explains in an understandable manner what was committed.
+- Excellent: Left a commit message that explains in a short and concise manner what was committed.
 
 ### Continuous Integration with Github Actions
 
