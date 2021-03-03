@@ -78,75 +78,83 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub Flow model
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Using the GitHub issue tracker
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Assigning team members to issues in the GitHub issue tracker
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Creating and using a repository branch
 
+<<<<<<< HEAD
 - None: Never uses repository branches.
 - Inadequate: Uses repository branches when they are not appropriate.
 - Adequate: Occasionally uses branches appropriately, but needs to use them more frequently.
 - Good: Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
 - Excellent: Always uses branches when appropriate, and uses them frequently.
+=======
+* None: Have no knowledge regarding how to create or use repository branch
+* Inadequate: Know creating and using repository branch
+* Adequate:
+* Good:
+* Excellent:
+>>>>>>> 4675204e6fed0557c135fa3b9d6a5c75baf442b5
 
 * Creating and using a repository fork
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Merging a branch or a fork to another branch or fork
 
-- None:
-- Inadequate:
-- Adequate:
-- Good:
-- Excellent:
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 * Creating and reviewing a pull request
 
-- None: Do not know how to review a pull request
-- Inadequate: Have knowledge of pull requests, but fail to act upon it
-- Adequate: Review pull requests and act on steps required, but fail to know how to fix all conflicts
-- Good: Review pull requests and act on steps required while avoiding merge conflicts
-- Excellent: Review pull requests, act on steps required, avoid merge conflicts, and add comments
+* None: Do not know how to review a pull request
+* Inadequate: Have knowledge of pull requests, but fail to act upon it
+* Adequate: Review pull requests and act on steps required, but fail to know how to fix all conflicts
+* Good: Review pull requests and act on steps required while avoiding merge conflicts
+* Excellent: Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
-- None: Left no commit message.
-- Inadequate: Left a commit message that explains nothing about the commit.
-- Adequate: Left a commit message that explains in little detail what was committed.
-- Good: Left a commit message that explains in an understandable manner what was committed.
-- Excellent: Left a commit message that explains in a short and concise manner what was committed.
+* None:
+* Inadequate:
+* Adequate:
+* Good:
+* Excellent:
 
 ### Continuous Integration with Github Actions
 
