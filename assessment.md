@@ -29,11 +29,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 * Formatting Python programs with `black`
 
   TODO: add description for each assessment level for this skill.
-  None = Doesn't have `black` at all
-  Inadequate = Doesn't use `black` at all
-  Adequate = Successfully uses `black` to format code.
-  Good = Uses `black` on a routine basis.
-  Excellent = Uses `black` on a routine basis while also being able to help others develop the skill as well.
+ * None = Doesn't have `black` at all
+ * Inadequate = Doesn't use `black` at all
+ * Adequate = Successfully uses `black` to format code.
+ * Good = Uses `black` on a routine basis.
+ * Excellent = Uses `black` on a routine basis while also being able to help others develop the skill as well.
 
 * Basic testing of Python programs with `pytest`
 
