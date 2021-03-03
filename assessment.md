@@ -202,7 +202,15 @@ TODO: add description for each assessment level for this skill.
 
 * Attendance
 
-TODO: add description for each assessment level for this skill.
+None: Student attended 0% of meetings.
+
+Inadequate: Student attended 30% of meetings.
+
+Adequate: Student attended 50% of meetings.
+
+Good: Student attended 70% of meetings.
+
+Excellent: Student attended 100% of meetings.
 
 * Deadlines
 
