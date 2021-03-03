@@ -38,121 +38,121 @@ Replace TODOs with abbreviations, or emoji, or ...
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Reporting code coverage through an online provider
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Using docstrings to document a Python program
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Adopting and applying appropriate naming conventions
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Using exception handling to create a robust Python program
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Refactoring a Python program to improve its characteristics
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Debugging Python programs using logging and other methods
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Adopting and using appropriate Python language constructs
 
-  None =
+  None = Failure to understand or use basic Python language constructs.
 
-  Inadequate = 
+  Inadequate = Makes an attempt to use Python language construct but lacks understanding of fundamentals.
 
-  Adequate = 
+  Adequate = Able to apply Python language on a somewhat consistent basis and have a generally understanding on the fundamentals.
 
-  Good = 
+  Good = Able to utilize the language to a fairly proficient degree and have a good grasp on the fundamentals.
 
-  Excellent = 
+  Excellent = Clear and concise use of Python language, knowing what the use for the right situations.
 
 * Adopting and using appropriate Python packages
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 * Adhering to industry best practices for programming in Python
 
   None =
 
-  Inadequate = 
+  Inadequate =
 
-  Adequate = 
+  Adequate =
 
-  Good = 
+  Good =
 
-  Excellent = 
+  Excellent =
 
 ### Project Management with GitHub
 
