@@ -256,7 +256,9 @@ TODO: add description for each assessment level for this skill.
 
 * Interaction with the course instructor
 
-TODO: add description for each assessment level for this skill.
+- Effective interaction with the course instructor would be being respectful. The both student and instructor should respect each other's time and effort. Students should have appropriate specific questions about programming/ technical problems. Students have to let the instructor know if he/she is understanding the topics and keeping up with her.
+
+- Ineffective interaction with the course instructor would be not coming to office hours and communicating to the instructor. If the students do not tell the what is happening to their study, the teacher can not help the students. Without the instructor's guidance, students will not know if they are going on the right path or not. 
 
 * Interaction with the student technical leaders
 
