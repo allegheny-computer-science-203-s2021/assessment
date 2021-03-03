@@ -36,43 +36,123 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Calculating code coverage of a `pytest` test suite
 
-  TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Reporting code coverage through an online provider
 
-  TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Using docstrings to document a Python program
 
-  TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Adopting and applying appropriate naming conventions
 
-  TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Using exception handling to create a robust Python program
 
-TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Refactoring a Python program to improve its characteristics
 
-TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Debugging Python programs using logging and other methods
 
-TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Adopting and using appropriate Python language constructs
 
-TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Adopting and using appropriate Python packages
 
- TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 * Adhering to industry best practices for programming in Python
 
-TODO: add description for each assessment level for this skill.
+  None =
+
+  Inadequate = 
+
+  Adequate = 
+
+  Good = 
+
+  Excellent = 
 
 ### Project Management with GitHub
 
