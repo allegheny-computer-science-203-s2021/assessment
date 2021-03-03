@@ -16,7 +16,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Configuring a development environment for Python
 
-  TODO: add description for each assessment level for this skill.
+  * 😳: Development environment not configured.
+  * 😟: Development environment only partially configured.
+  * 😐: Development environment fully configured, but not tested.
+  * 😊: Development environment fully configured and operational.
+  * 😆: Development environment fully configured and operational, with access to all other tools needed in the course to complete assignments and projects with python.
 
 * Running Python programs with `pyenv` and `pipenv`
 
