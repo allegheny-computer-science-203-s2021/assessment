@@ -72,15 +72,20 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Adopting and applying appropriate naming conventions
 
-  None =
+  None = Uses unclear and not concise naming conventions to convey what the 
+programmer is doing through the whole program
 
-  Inadequate =
+  Inadequate = Uses clear and concise naming conventions to convey what the 
+programmer is doing for a small portion of the program
 
-  Adequate =
+  Adequate = Uses clear and concise naming conventions to convey what the 
+programmer is doing for some of the program
 
-  Good =
+  Good = Uses clear and concise naming conventions to convey what the 
+programmer is doing for most of the program
 
-  Excellent =
+  Excellent  Utilizes clear and concise naming conventions to convey 
+what the programmer is doing throughout the whole program
 
 * Using exception handling to create a robust Python program
 
