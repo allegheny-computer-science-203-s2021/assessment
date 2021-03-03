@@ -78,75 +78,75 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub Flow model
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None = Never has used the GitHub flow model before.
+* Inadequate =
+* Adequate =
+* Good =
+* Excellent =
 
 * Using the GitHub issue tracker
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None =
+* Inadequate =
+* Adequate =
+* Good =
+* Excellent =
 
 * Assigning team members to issues in the GitHub issue tracker
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None =
+* Inadequate =
+* Adequate =
+* Good =
+* Excellent =
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None =
+* Inadequate =
+* Adequate =
+* Good =
+* Excellent =
 
 * Creating and using a repository branch
 
-- None: Never uses repository branches.
-- Inadequate: Uses repository branches when they are not appropriate.
-- Adequate: Occasionally uses branches appropriately, but needs to use them more frequently.
-- Good: Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
-- Excellent: Always uses branches when appropriate, and uses them frequently.
+- None = Never uses repository branches.
+- Inadequate = Uses repository branches when they are not appropriate.
+- Adequate = Occasionally uses branches appropriately, but needs to use them more frequently.
+- Good = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
+- Excellent = Always uses branches when appropriate, and uses them frequently.
 
 * Creating and using a repository fork
 
-* None: Never uses repository forks.
-* Inadequate: Sometimes uses forks, but not when appropriate.
-* Adequate: Student uses forks when necessary.
-* Good: The student uses forks often, but the student uses them when they are not always necessary.
-* Excellent: Student demonstrates superior ability to use forks and always knows when they are necessary to use.
+* None = Never uses repository forks.
+* Inadequate = Sometimes uses forks, but not when appropriate.
+* Adequate = Student uses forks when necessary.
+* Good = The student uses forks often, but the student uses them when they are not always necessary.
+* Excellent = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 Merging a branch or a fork to another branch or fork
 
-* None: Not merging the branch or fork to another branch or fork
-* Inadequate: Merging the branch or fork when there are merge conflicts still present in the original
-* Adequate: Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
-* Good: Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
-* Excellent: Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
+* None = Not merging the branch or fork to another branch or fork
+* Inadequate = Merging the branch or fork when there are merge conflicts still present in the original
+* Adequate = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
+* Good = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
+* Excellent = Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
 
 * Creating and reviewing a pull request
 
-* None: Do not know how to review a pull request
-* Inadequate: Have knowledge of pull requests, but fail to act upon it
-* Adequate: Review pull requests and act on steps required, but fail to know how to fix all conflicts
-* Good: Review pull requests and act on steps required while avoiding merge conflicts
-* Excellent: Review pull requests, act on steps required, avoid merge conflicts, and add comments
+* None = Do not know how to review a pull request
+* Inadequate = Have knowledge of pull requests, but fail to act upon it
+* Adequate = Review pull requests and act on steps required, but fail to know how to fix all conflicts
+* Good = Review pull requests and act on steps required while avoiding merge conflicts
+* Excellent = Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None =
+* Inadequate =
+* Adequate =
+* Good =
+* Excellent =
 
 ### Continuous Integration with Github Actions
 
