@@ -4,11 +4,11 @@
 
 Replace TODOs with abbreviations, or emoji, or ...
 
-* TODO = None
-* TODO = Inadequate
-* TODO = Adequate
-* TODO = Good
-* TODO = Excellent
+* 😳 = None
+* 😟 = Inadequate
+* 😐 = Adequate
+* 😊 = Good
+* 😆 = Excellent
 
 ## Technical Skills
 
