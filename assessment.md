@@ -207,7 +207,11 @@ TODO: add description for each assessment level for this skill.
 
 * Attendance
 
-TODO: add description for each assessment level for this skill.
+  * Makes no effort to attend class or labs. Has ten or more unexcused absences. = None
+  * Makes little effort to attend class and labs. Has 5 or more unexcused absences. = Inadequate
+  * Makes an effort to attend class and labs. Has less than 5 unexcused absences. Makes an effort to arrive to class on time. = Adequate
+  * Makes a good effort to attend class and labs. Usually arrives to class on time. Has less than 3 unexcused absences. Gives notice when they know they will be unable to attend. = Good
+  * Makes an excellent effort to attend class and labs. Is almost always on time. Has 2-0 unexcused absences. Always gives prior notice when they know they will be unable to attend. = Excellent
 
 * Deadlines
 
