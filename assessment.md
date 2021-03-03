@@ -137,10 +137,10 @@ TODO: add description for each assessment level for this skill.
 
 * Identifying and resolving problems with failing builds in GitHub Actions CI
   * None = Ignores all problems in GitHub Actions CI, routinely submits failing builds.
-  * Inadequate =
-  * Adequate =
-  * Good =
-  * Excellent =
+  * Inadequate = Occasionally identifies problems with builds, does not solve problems.
+  * Adequate = Frequently identifies problems, occasionally solves them partially.
+  * Good = Frequently identifies problems and makes strides to solve them at least partially. Occasionally provides documentation.
+  * Excellent = Routinely identifies and solves the problems behind failing builds and documents any fixes for future use.
 
 ### Foundations of Software Engineering
 
