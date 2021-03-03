@@ -218,7 +218,15 @@ TODO: add description for each assessment level for this skill.
 
 * Communication
 
-TODO: add description for each assessment level for this skill.
+None: Student does not interact with others, and neglects
+
+Inadequate:
+
+Adequate:
+
+Good:
+
+Excellent:
 
 * Participation
 
