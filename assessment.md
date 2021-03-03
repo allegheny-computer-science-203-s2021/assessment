@@ -153,13 +153,7 @@ Requirements engineering will be evaluated on this scale:
 
 * Software architecture
 
-The architecture of the software will be evaluated on this scale:
-
-  * None = The program demonstrates no understanding or implementation of software architecture.
-  * Inadequate = The program displays experience with software architecture, but there are flow and design issues.
-  * Adequate = The program displays experience and understanding of software architecture with minimal flow and design issues.
-  * Good = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
-  * Excellent = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. Develops concepts and is able to help other team members with the architecture of their software.
+TODO: add description for each assessment level for this skill.
 
 * Software design
 
@@ -173,7 +167,12 @@ Creating the best software blueprint to most efficiently solve a particular prob
 
 * Software documentation
 
-TODO: add description for each assessment level for this skill.
+Software Documentation will be evaulated on this scale 
+  * None = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included
+  * Inadequate = A short explanation, no solution to the problem, and no example is included
+  * Adequate = A good explantion, a short solution to the problem, and a short example is included
+  * Good = A detailed explantion, a solution to the problem, a short example is included
+  * Excellent = A detailed explantion, a detailed solution to the problem, a interactive example is included
 
 * Programming styles
 
