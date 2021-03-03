@@ -36,7 +36,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Basic testing of Python programs with `pytest`
 
-  TODO: add description for each assessment level for this skill.
+  * 😳: Does not use `pytest`
+  * 😟: Uses `pytest`, but every test fails, or only uses a couple of basic tests.
+  * 😐: Uses `pytest`, and includes some test cases and a few tests pass, or a few test
+  * 😊: Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
+  * 😆: Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
 
 * Calculating code coverage of a `pytest` test suite
 
