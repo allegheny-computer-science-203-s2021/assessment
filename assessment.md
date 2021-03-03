@@ -124,13 +124,13 @@ TODO: add description for each assessment level for this skill.
 * Good: The student uses forks often, but the student uses them when they are not always necessary.
 * Excellent: Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
-* Merging a branch or a fork to another branch or fork
+Merging a branch or a fork to another branch or fork
 
-* None:
-* Inadequate:
-* Adequate:
-* Good:
-* Excellent:
+* None: Not merging the branch or fork to another branch or fork
+* Inadequate: Merging the branch or fork when there are merge conflicts still present in the original
+* Adequate: Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
+* Good: Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
+* Excellent: Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
 
 * Creating and reviewing a pull request
 
