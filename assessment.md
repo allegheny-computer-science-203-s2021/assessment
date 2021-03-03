@@ -142,9 +142,11 @@ TODO: add description for each assessment level for this skill.
 ### Foundations of Software Engineering
 
 * Requirements engineering
-
-TODO: add description for each assessment level for this skill.
-
+  * None = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
+  * Inadquate = Adds one requirement for the program
+  * Adequate = Adds two requirements for the program
+  * Good = Adds three requirements for the program 
+  * Excellent = Adds more than three requirements for the program and shows knowledge of what the program is doing
 * Software architecture
 
 TODO: add description for each assessment level for this skill.
@@ -171,17 +173,8 @@ TODO: add description for each assessment level for this skill.
 
 * Software testing
 
-Understanding and successfully completing software testing through the correct
-installation of the necessary tools needed to test the software:
+TODO: add description for each assessment level for this skill.
 
-  * None = Does not have the tools installed to test the Software.
-  * Inadequate = Has the correct tools installed but does not test the software with them.
-  * Adequate = Has the correct tools installed, but only tests some of the Software.
-  * Good = Has the correct tools installed and tests more or all of the Software.
-  * Excellent = identifies and understands which tools to use to test the software while
-    also providing documentation and advice that helps other team members develop
-    this skill.
-    
 * Software refactoring
 
 TODO: add description for each assessment level for this skill.
