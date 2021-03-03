@@ -143,9 +143,9 @@ TODO: add description for each assessment level for this skill.
 
 * Requirements engineering
   * None = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
-  * Inadquate = Adds one requirement for the program
+  * Inadequate = Adds one requirement for the program
   * Adequate = Adds two requirements for the program
-  * Good = Adds three requirements for the program 
+  * Good = Adds three requirements for the program
   * Excellent = Adds more than three requirements for the program and shows knowledge of what the program is doing
 * Software architecture
 
