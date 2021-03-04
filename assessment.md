@@ -192,7 +192,13 @@ Programming styles will be evaluated on the following levels:
 
 * Managing software complexity
 
-TODO: add description for each assessment level for this skill.
+Managing software complexity will be evaluated on the following scale:
+
+* None = Written software is at a state where once the author has left the code, it is quite possible they would not be able to recognize what they left behind. Complexities reach a level so high that code becomes illegible to any reader.
+* Inadequate = Written software is not efficient in nature and often strays into unnecessary complexities; conditional statements are frequently overly convoluted and hard-coding is consistently present throughout.
+* Adequate = Written software is hardly efficient in nature and occasionally strays into unnecessary complexities; conditional statements can occasionally be overly convoluted and hard-coding is frequently present.
+* Good = Written software is decently efficient in nature and barely strays into unnecessary complexities; conditional statements are often not overly convoluted and hard-coding is only semi-present at best.
+* Excellent = Written software is incredibly efficient in nature and does not stray into unnecessary complexities or perhaps enter complexity without reason; conditional statements are not overly convoluted and hard-coding is hardly, if at all present.
 
 * Mitigating software risk
 
