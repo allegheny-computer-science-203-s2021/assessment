@@ -145,40 +145,40 @@ TODO: add description for each assessment level for this skill.
 
 Requirements engineering will be evaluated on this scale:
 
-  * None = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
-  * Inadequate = Adds one requirement for the program
-  * Adequate = Adds two requirements for the program
-  * Good = Adds three requirements for the program
-  * Excellent = Adds more than three requirements for the program and shows knowledge of what the program is doing
+* None = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
+* Inadequate = Adds one requirement for the program
+* Adequate = Adds two requirements for the program
+* Good = Adds three requirements for the program
+* Excellent = Adds more than three requirements for the program and shows knowledge of what the program is doing
 
 * Software architecture
 
 The architecture of the software will be evaluated on this scale:
 
-  * None = The program demonstrates no understanding or implementation of software architecture.
-  * Inadequate = The program displays experience with software architecture, but there are flow and design issues.
-  * Adequate = The program displays experience and understanding of software architecture with minimal flow and design issues.
-  * Good = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
-  * Excellent = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. Develops concepts and is able to help other team members with the architecture of their software.
+* None = The program demonstrates no understanding or implementation of software architecture.
+* Inadequate = The program displays experience with software architecture, but there are flow and design issues.
+* Adequate = The program displays experience and understanding of software architecture with minimal flow and design issues.
+* Good = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
+* Excellent = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. Develops concepts and is able to help other team members with the architecture of their software.
 
 * Software design
 
 Creating the best software blueprint to most efficiently solve a particular problem.
 
-  * None = Doesn't even attempt to solve the problem.
-  * Inadequate = Creates incorrect software to solve the problem.
-  * Adequate = Creates correct software to solve the problem.
-  * Good = Creates correct and efficient software to solve the problem.
-  * Excellent = Creates correct and efficient software while constantly thinking of how to make it more efficient.
+* None = Doesn't even attempt to solve the problem.
+* Inadequate = Creates incorrect software to solve the problem.
+* Adequate = Creates correct software to solve the problem.
+* Good = Creates correct and efficient software to solve the problem.
+* Excellent = Creates correct and efficient software while constantly thinking of how to make it more efficient.
 
 * Software documentation
 
 Software Documentation will be evaluated on this scale
-  * None = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included
-  * Inadequate = A short explanation, no solution to the problem, and no example is included
-  * Adequate = A good explanation, a short solution to the problem, and a short example is included
-  * Good = A detailed explanation, a solution to the problem, a short example is included
-  * Excellent = A detailed explanation, a detailed solution to the problem, a interactive example is included
+* None = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included
+* Inadequate = A short explanation, no solution to the problem, and no example is included
+* Adequate = A good explanation, a short solution to the problem, and a short example is included
+* Good = A detailed explanation, a solution to the problem, a short example is included
+* Excellent = A detailed explanation, a detailed solution to the problem, a interactive example is included
 
 * Programming styles
 
@@ -204,22 +204,22 @@ Managing software complexity will be evaluated on the following scale:
 
 Ability to plan for and mitigate risks.
 
-  * None = Does not attempt to mitigate or identify potential risks. Does not make an effort to communicate with teammates or handle problems.
-  * Inadequate = Makes little attempt to mitigate or identify risks. Low effort in communication and planning.
-  * Adequate = Makes an attempt to mitigate and identify risks. Communicates with teammates about some risks but may not be adequately prepared.
-  * Good = Makes a good attempt at identifying and mitigating potential risks. Takes some early action to prevent problems. Often communicates with teammates about potential issues. Is often able to handle unexpected problems.  
-  * Excellent = Identifies potential risks and actively works to avoid them. Communicates with group members to effectively prevent and manage any risks or problems. Is able to handle unexpected problems when they do appear and asks for help when appropriate.
+* None = Does not attempt to mitigate or identify potential risks. Does not make an effort to communicate with teammates or handle problems.
+* Inadequate = Makes little attempt to mitigate or identify risks. Low effort in communication and planning.
+* Adequate = Makes an attempt to mitigate and identify risks. Communicates with teammates about some risks but may not be adequately prepared.
+* Good = Makes a good attempt at identifying and mitigating potential risks. Takes some early action to prevent problems. Often communicates with teammates about potential issues. Is often able to handle unexpected problems.  
+* Excellent = Identifies potential risks and actively works to avoid them. Communicates with group members to effectively prevent and manage any risks or problems. Is able to handle unexpected problems when they do appear and asks for help when appropriate.
 
 * Software testing
 
 Understanding and successfully completing software testing through the correct
 installation of the necessary tools needed to test the software:
 
-  * None = Does not have the tools installed to test the Software.
-  * Inadequate = Has the correct tools installed but does not test the software with them.
-  * Adequate = Has the correct tools installed, but only tests some of the Software.
-  * Good = Has the correct tools installed and tests more or all of the Software.
-  * Excellent = identifies and understands which tools to use to test the software while
+* None = Does not have the tools installed to test the Software.
+* Inadequate = Has the correct tools installed but does not test the software with them.
+* Adequate = Has the correct tools installed, but only tests some of the Software.
+* Good = Has the correct tools installed and tests more or all of the Software.
+* Excellent = identifies and understands which tools to use to test the software while
     also providing documentation and advice that helps other team members develop
     this skill.
 
@@ -227,11 +227,11 @@ installation of the necessary tools needed to test the software:
 
 Understanding and using refactoring to improve code readability and performance.
 
-  * None = Does not utilize appropriate refactoring at all, code may be unreadable or messy.
-  * Inadequate = Begins to utilize refactoring but it does not lead to improvements in the readability or performance of the code, or the refactoring changes the functionality of the code inappropriately. Refactoring may have introduced new bugs and problems that remain unsolved.
-  * Adequate = Sometimes utilizes refactoring when necessary, making the code cleaner. Refactoring does not fix performance issues. Code may still be messy but is not unreadable. Refactoring does not change functionality of code.
-  * Good = Often uses refactoring when necessary. Code is readable. Refactoring fixes some code performance issues. The functionality of the code does not change.
-  * Excellent = Always uses refactoring when necessary. Code is clean and easily readable. Refactoring is used to eliminate any bugs, simplify code, and improve software performance. There is no change to functionality.
+* None = Does not utilize appropriate refactoring at all, code may be unreadable or messy.
+* Inadequate = Begins to utilize refactoring but it does not lead to improvements in the readability or performance of the code, or the refactoring changes the functionality of the code inappropriately. Refactoring may have introduced new bugs and problems that remain unsolved.
+* Adequate = Sometimes utilizes refactoring when necessary, making the code cleaner. Refactoring does not fix performance issues. Code may still be messy but is not unreadable. Refactoring does not change functionality of code.
+* Good = Often uses refactoring when necessary. Code is readable. Refactoring fixes some code performance issues. The functionality of the code does not change.
+* Excellent = Always uses refactoring when necessary. Code is clean and easily readable. Refactoring is used to eliminate any bugs, simplify code, and improve software performance. There is no change to functionality.
 
 ## Professional Skills
 
