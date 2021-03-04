@@ -127,13 +127,19 @@ TODO: add description for each assessment level for this skill.
 TODO: add description for each assessment level for this skill.
 
 * Adding README badges that show status of GitHub Actions CI builds
-
-TODO: add description for each assessment level for this skill.
+  * None = Does not add README badges.
+  * Inadequate = Rarely adds README badges that show status of builds, never addressing any errors made.
+  * Adequate = Occasionally adds README badges that show status of builds, rarely addressing errors any errors made.
+  * Good = Frequently adds README badges that show status of builds, often addressing any errors made.
+  * Excellent = Adds README badges that show status of builds, always addressing any errors made.
 
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
-
-TODO: add description for each assessment level for this skill.
+  * None = Does not add README badges.
+  * Inadequate = Rarely adds README badges that show project characteristics, never addressing any errors made.
+  * Adequate = Occasionally adds README badges that show project characteristics, rarely addressing errors any errors made.
+  * Good = Frequently adds README badges that show that show project characteristics, often addressing any errors made.
+  * Excellent = Adds README badges that show project characteristics, always addressing any errors made.
 
 * Identifying and resolving problems with failing builds in GitHub Actions CI
   * None = Ignores all problems in GitHub Actions CI, routinely makes and does not resolve basic coding errors.
