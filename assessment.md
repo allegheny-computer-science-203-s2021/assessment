@@ -174,6 +174,7 @@ Creating the best software blueprint to most efficiently solve a particular prob
 * Software documentation
 
 Software Documentation will be evaluated on this scale
+
 * None = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included
 * Inadequate = A short explanation, no solution to the problem, and no example is included
 * Adequate = A good explanation, a short solution to the problem, and a short example is included
