@@ -137,15 +137,15 @@ what the programmer is doing throughout the whole program
 
 * Adopting and using appropriate Python packages
 
- *None =
+ *None = Uses inappropriate Python packages making code unclear
 
- *Inadequate =
+ *Inadequate = Uses very few appropriate Python packages, code still unclear
 
- *Adequate =
+ *Adequate = Uses some appropriate Python packages 
 
- *Good =
+ *Good = Uses most of the needed Python packages clearly making code almost fully clear
 
- *Excellent =
+ *Excellent = Uses all of the needed Python packages clearly
 
 * Adhering to industry best practices for programming in Python
 
