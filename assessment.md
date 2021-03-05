@@ -4,11 +4,11 @@
 
 Replace TODOs with abbreviations, or emoji, or ...
 
-* TODO = None
-* TODO = Inadequate
-* TODO = Adequate
-* TODO = Good
-* TODO = Excellent
+* :flushed: = None
+* :worried: = Inadequate
+* :neutral_face: = Adequate
+* :blush: = Good
+* :laughing: = Excellent
 
 ## Technical Skills
 
@@ -28,11 +28,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Formatting Python programs with `black`
 
-* None = Doesn't have `black` at all
-* Inadequate = Doesn't use `black` at all
-* Adequate = Successfully uses `black` to format code.
-* Good = Uses `black` on a routine basis.
-* Excellent = Uses `black` on a routine basis while also being able to help others develop the skill as well.
+* :flushed: = Doesn't have `black` at all
+* :worried: = Doesn't use `black` at all
+* :neutral_face: = Successfully uses `black` to format code.
+* :blush: = Uses `black` on a routine basis.
+* :laughing: = Uses `black` on a routine basis while also being able to help others develop the skill as well.
 
 * Basic testing of Python programs with `pytest`
 
