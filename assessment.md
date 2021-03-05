@@ -28,7 +28,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Formatting Python programs with `black`
 
-  TODO: add description for each assessment level for this skill.
+* :flushed: = Doesn't have `black` at all
+* :worried: = Doesn't use `black` at all
+* :neutral_face: = Successfully uses `black` to format code.
+* :blush: = Uses `black` on a routine basis.
+* :laughing: = Uses `black` on a routine basis while also being able to help others develop the skill as well.
 
 * Basic testing of Python programs with `pytest`
 
