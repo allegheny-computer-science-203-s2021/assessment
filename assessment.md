@@ -156,7 +156,7 @@ TODO: add description for each assessment level for this skill.
 * :worried: = The program displays experience with software architecture, but there are flow and design issues.
 * :neutral_face: = The program displays experience and understanding of software architecture with minimal flow and design issues.
 * :blush: = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
-* :laughing: = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. Develops concepts and is able to help other team members with the architecture of their software.
+* :laughing: = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. The student develops concepts and is able to help other team members with the architecture of their software.
 
 * Software design
 
@@ -203,10 +203,10 @@ Software Documentation will be evaluated on this scale
 
 * Software testing
 
-* :flushed: = Does not have the tools installed to test the Software.
-* :worried: = Has the correct tools installed but does not test the software with them.
-* :neutral_face: = Has the correct tools installed, but only tests some of the Software.
-* :blush: = Has the correct tools installed and tests more or all of the Software.
+* :flushed: = Does not have the tools installed to run the software in the first place.
+* :worried: = Has the correct tools installed but does not run the software or test cases.
+* :neutral_face: = Has the correct tools installed and runs the software, but doesn't run the test cases.
+* :blush: = Has the correct tools installed, runs the software, and runs the test cases.
 * :laughing: = identifies and understands which tools to use to test the software while
     also providing documentation and advice that helps other team members develop
     this skill.
