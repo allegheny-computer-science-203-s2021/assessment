@@ -242,11 +242,11 @@ TODO: add description for each assessment level for this skill.
 
 * Postmortems
 
- * None: Does not contribute when fixing remaining issue and blames other group members.
- * Inadequate: Unwilling to fix postmortems in a proper manner, and isn't helping the team.
- * Adequate: Subtly helps the group fix remaining issues.
- * Good: Helps the group fix multiple issues, and contributes a lot.
- * Excellent: Leads the group, and guides everyone to fix the issues as a team.
+  * None: Does not contribute when fixing remaining issue and blames other group members.
+  * Inadequate: Unwilling to fix postmortems in a proper manner, and isn't helping the team.
+  * Adequate: Subtly helps the group fix remaining issues.
+  * Good: Helps the group fix multiple issues, and contributes a lot.
+  * Excellent: Leads the group, and guides everyone to fix the issues as a team.
 
 * Conflicts
 
