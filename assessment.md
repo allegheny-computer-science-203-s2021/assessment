@@ -143,7 +143,6 @@ TODO: add description for each assessment level for this skill.
 
 * Requirements engineering
 
-Requirements engineering will be evaluated on this scale:
 
 * None = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
 * Inadequate = Adds one requirement for the program
@@ -153,8 +152,6 @@ Requirements engineering will be evaluated on this scale:
 
 * Software architecture
 
-The architecture of the software will be evaluated on this scale:
-
 * None = The program demonstrates no understanding or implementation of software architecture.
 * Inadequate = The program displays experience with software architecture, but there are flow and design issues.
 * Adequate = The program displays experience and understanding of software architecture with minimal flow and design issues.
@@ -163,7 +160,6 @@ The architecture of the software will be evaluated on this scale:
 
 * Software design
 
-Creating the best software blueprint to most efficiently solve a particular problem.
 
 * None = Doesn't even attempt to solve the problem.
 * Inadequate = Creates incorrect software to solve the problem.
@@ -183,8 +179,6 @@ Software Documentation will be evaluated on this scale
 
 * Programming styles
 
-Programming styles will be evaluated on the following levels:
-
 * None = Does not have the ability to program at all in any style.
 * Inadequate = Programming style is completely akin to "spaghetti code."
 * Adequate = Programming style is slightly akin to "spaghetti code." with some correct naming conventions, indentations, and little or non-descriptive commenting.
@@ -192,8 +186,6 @@ Programming styles will be evaluated on the following levels:
 * Excellent = Programming style is very thorough and uses proper naming conventions, indentations, and is descriptively commented throughout. Styling is consistent at this level.
 
 * Managing software complexity
-
-Managing software complexity will be evaluated on the following scale:
 
 * None = Written software is at a state where once the author has left the code, it is quite possible they would not be able to recognize what they left behind. Complexities reach a level so high that code becomes illegible to any reader.
 * Inadequate = Written software is not efficient in nature and often strays into unnecessary complexities; conditional statements are frequently overly convoluted and hard-coding is consistently present throughout.
@@ -203,8 +195,6 @@ Managing software complexity will be evaluated on the following scale:
 
 * Mitigating software risk
 
-Ability to plan for and mitigate risks.
-
 * None = Does not attempt to mitigate or identify potential risks. Does not make an effort to communicate with teammates or handle problems.
 * Inadequate = Makes little attempt to mitigate or identify risks. Low effort in communication and planning.
 * Adequate = Makes an attempt to mitigate and identify risks. Communicates with teammates about some risks but may not be adequately prepared.
@@ -212,9 +202,6 @@ Ability to plan for and mitigate risks.
 * Excellent = Identifies potential risks and actively works to avoid them. Communicates with group members to effectively prevent and manage any risks or problems. Is able to handle unexpected problems when they do appear and asks for help when appropriate.
 
 * Software testing
-
-Understanding and successfully completing software testing through the correct
-installation of the necessary tools needed to test the software:
 
 * None = Does not have the tools installed to test the Software.
 * Inadequate = Has the correct tools installed but does not test the software with them.
@@ -225,8 +212,6 @@ installation of the necessary tools needed to test the software:
     this skill.
 
 * Software refactoring
-
-Understanding and using refactoring to improve code readability and performance.
 
 * None = Does not utilize appropriate refactoring at all, code may be unreadable or messy.
 * Inadequate = Begins to utilize refactoring but it does not lead to improvements in the readability or performance of the code, or the refactoring changes the functionality of the code inappropriately. Refactoring may have introduced new bugs and problems that remain unsolved.
