@@ -226,7 +226,12 @@ TODO: add description for each assessment level for this skill.
 
 * Participation
 
-TODO: add description for each assessment level for this skill.
+  * None: Student does not do any work or show up to anything zero communication
+  * Inadequate: Student does no work and barely shows up with zero communication
+  * Adequate: Student does some work and shows up and communicates
+  * Good: Student does part and shows up and communicates effectively
+  * Excellent: Student does part and works effectively and efficiently with group members. Communications effectively
+
 
 * Conduct
 
