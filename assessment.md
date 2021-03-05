@@ -263,7 +263,11 @@ TODO: add description for each assessment level for this skill.
 
 * Infractions
 
-TODO: add description for each assessment level for this skill.
+  * None: 5th time = fail 
+  * Inadequate:4th time = overall grade reduction
+  * Adequate:3rd time = grade reduction for assignment
+  * Good: 2nd time = talk with professor
+  * Excellent:1nd time = a warning
 
 ### Interactions
 
