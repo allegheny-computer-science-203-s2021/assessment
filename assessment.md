@@ -115,8 +115,11 @@ TODO: add description for each assessment level for this skill.
 ### Continuous Integration with Github Actions
 
 * Setup and configuration of GitHub Actions CI
-
-TODO: add description for each assessment level for this skill.
+  * None = Does not use Github Actions CI or have it set up on their repository.
+  * Inadequate = Set up Github Actions to a workflow that doesn't make sense with the program and its contributors or in a way that isn't functionally committed to the repository.
+  * Adequate = Properly set up a Github Actions workflow in a way that is usable to collaborators.
+  * Good = Set up a Github Actions workflow that streamlines the workflow process and makes process consistent among devices that have different installations.
+  * Excellent = Streamlines all major angles including testing and general communication using Github Actions.
 
 * Performing secure releases of project deliverables
 
