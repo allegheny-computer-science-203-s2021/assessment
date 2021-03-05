@@ -130,10 +130,10 @@ TODO: add description for each assessment level for this skill.
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
   * None = Does not create third-party integrations with GitHub Actions CI.  
-  * Inadequate = Helps you stick to some of your team's quality standards by running tests.
-  * Adequate = Helps you stick to most of your team's quality standards by running test on some of your new commits.
-  * Good = Helps you stick to your teams quality standards by running tests every time you push a new commit and reporting some results to a pull request.
-  * Excellent = Helps you stick to your team's quality standards by running tests every time you push a new commit and reporting the results to a pull request.
+  * Inadequate = Is able to occasionally integrate GitHub with a third party. Still lacks fundamental knowledge of how to do so consistently
+  * Adequate = Contributes third party integrations on a fairly consistent basis. Could use more knowledge on the subject, however.
+  * Good = Often times integrates third party software with Github. Very knowledgeable on how to do so.
+  * Excellent = Leads the way for the team when integrating Github with a third party. Can easily explain to the team how they did so.
 
 * Adding README badges that show status of GitHub Actions CI builds
   * None = Does not add README badges.
