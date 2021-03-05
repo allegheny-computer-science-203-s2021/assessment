@@ -123,11 +123,11 @@ TODO: add description for each assessment level for this skill.
 
 * Performing secure releases of project deliverables
 
-* None = Does not set up any security features on project deliverables.
-* Inadequate = Sets up some security features on project deliverables, but project information is still easily compromisable.
-* Adequate = Properly sets up all appropriate security features on project deliverables.
-* Good = Properly sets up all appropriate security features on project deliverables in way that is best-suited for how project is set up.
-* Excellent =
+  * None = Does not set up any security features on project deliverables.
+  * Inadequate = Sets up some security features on project deliverables, but project information is still easily compromisable.
+  * Adequate = Properly sets up all appropriate security features on project deliverables.
+  * Good = Properly sets up all appropriate security features on project deliverables in way that is best-suited for how project is set up.
+  * Excellent =
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
 
