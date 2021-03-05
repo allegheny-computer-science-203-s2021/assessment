@@ -202,31 +202,27 @@ TODO: add description for each assessment level for this skill.
 
 * Attendance
 
-None: Student attended 0% of meetings.
-Inadequate: Student attended 30% of meetings.
-Adequate: Student attended 50% of meetings.
-Good: Student attended 70% of meetings.
-Excellent: Student attended 100% of meetings.
+  * None: Student attended 0% of meetings.
+  * Inadequate: Student attended 30% of meetings.
+  * Adequate: Student attended 50% of meetings.
+  * Good: Student attended 70% of meetings.
+  * Excellent: Student attended 100% of meetings.
 
 * Deadlines
 
-None: This group member has no disregard for the deadline and ignored it.
-Inadequate: This group member acknowledged the deadline but did not manage their time to meet it.
-Adequate: This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and unorganized.
-Good: This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
-Excellent: This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for any extensions if needed, and their work was very clean and organized.
+  * None: This group member has no disregard for the deadline and ignored it.
+  * Inadequate: This group member acknowledged the deadline but did not manage their time to meet it.
+  * Adequate: This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and  unorganized.
+  * Good: This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
+  * Excellent: This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for  any extensions if needed, and their work was very clean and organized.
 
 * Communication
 
-None: Student does not interact with others, and neglects group members.
-
-Inadequate: Student responds to group members with great delay, and lacks contributions.
-
-Adequate: Student interacts with the group moderately and is in proper communication.
-
-Good: Student helps other group members and interacts frequently with the group.
-
-Excellent: Student leads the group discussions and helps other students.
+  * None: Student does not interact with others, and neglects group members.
+  * Inadequate: Student responds to group members with great delay, and lacks contributions.
+  * Adequate: Student interacts with the group moderately and is in proper communication.
+  * Good: Student helps other group members and interacts frequently with the group.
+  * Excellent: Student leads the group discussions and helps other students.
 
 * Participation
 
@@ -238,15 +234,11 @@ TODO: add description for each assessment level for this skill.
 
 * Decisions
 
-None: Makes decisions without consulting the rest of the group.
-
-Inadequate: Consults the group, but still makes their own decisions.
-
-Adequate: Consults the group to come to a consensus of what decision should be made.
-
-Good: Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
-
-Excellent: Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
+  * None: Makes decisions without consulting the rest of the group.
+  * Inadequate: Consults the group, but still makes their own decisions.
+  * Adequate: Consults the group to come to a consensus of what decision should be made.
+  * Good: Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
+  * Excellent: Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
 
 * Postmortems
 
