@@ -159,11 +159,11 @@ TODO: add description for each assessment level for this skill.
 
 * Software design
 
-* :flushed: = Doesn't even attempt to solve the problem.
-* :worried: = Creates incorrect software to solve the problem.
-* :neutral_face: = Creates correct software to solve the problem.
-* :blush: = Creates correct and efficient software to solve the problem.
-* :laughing: = Creates correct and efficient software while constantly thinking of how to make it more efficient.
+* :flushed: = Creates no design for the software.
+* :worried: = Creates a design, but doesn't support the software's goals.
+* :neutral_face: = Creates a design that supports the software's goals, but perhaps not an efficient design.
+* :blush: = Creates an efficient, robust design that supports the software's goals.
+* :laughing: = In addition to creating an efficient, robust design, constantly thinks about how the design could be improved.
 
 * Software documentation
 
@@ -185,9 +185,9 @@ TODO: add description for each assessment level for this skill.
 
 * :flushed: = Written software is at a state where once the author has left the code, it is quite possible they would not be able to recognize what they left behind. Complexities reach a level so high that code becomes illegible to any reader.
 * :worried: = Written software is not efficient in nature and often strays into unnecessary complexities; conditional statements are frequently overly convoluted and hard-coding is consistently present throughout.
-* :neutral_face: = Written software is hardly efficient in nature and occasionally strays into unnecessary complexities; conditional statements can occasionally be overly convoluted and hard-coding is frequently present.
-* :blush: = Written software is decently efficient in nature and barely strays into unnecessary complexities; conditional statements are often not overly convoluted and hard-coding is only semi-present at best.
-* :laughing: = Written software is incredibly efficient in nature and does not stray into unnecessary complexities or perhaps enter complexity without reason; conditional statements are not overly convoluted and hard-coding is hardly, if at all present.
+* :neutral_face: = Written software is efficient in nature and occasionally becomes unnecessarily complex; conditional statements aren't overly convoluted and there's no hard-coding present.
+* :blush: = Written software is efficient in nature and doesn't become unnecessarily complex at all; conditional statements are overly convoluted, but there's no hard-coding present.
+* :laughing: = Written software is incredibly efficient in nature and doesn't become unnecessarily complex at all; conditional statements are simple to understand and hard-coding is hardly, if at all present.
 
 * Mitigating software risk
 
