@@ -143,7 +143,6 @@ TODO: add description for each assessment level for this skill.
 
 * Requirements engineering
 
-
 * :flushed: = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
 * :worried: = Adding requirements, but not making them user-focused.
 * :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements.
@@ -159,7 +158,6 @@ TODO: add description for each assessment level for this skill.
 * :laughing: = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. The student develops concepts and is able to help other team members with the architecture of their software.
 
 * Software design
-
 
 * :flushed: = Doesn't even attempt to solve the problem.
 * :worried: = Creates incorrect software to solve the problem.
