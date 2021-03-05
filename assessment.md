@@ -122,7 +122,6 @@ TODO: add description for each assessment level for this skill.
   * Excellent = Streamlines all major angles including testing and general communication using Github Actions.
 
 * Performing secure releases of project deliverables
-
   * None = Does not set up any security features on project deliverables.
   * Inadequate = Sets up some security features on project deliverables, but project information is still easily compromisable.
   * Adequate = Properly sets up all appropriate security features on project deliverables.
@@ -135,7 +134,6 @@ TODO: add description for each assessment level for this skill.
   * Adequate = Helps you stick to most of your team's quality standards by running test on some of your new commits. 
   * Good = Helps you stick to your teams quality standards by running tests every time you push a new commit and reporting some results to a pull request.
   * Excellent = Helps you stick to your team's quality standards by running tests every time you push a new commit and reporting the results to a pull request.
-
 
 * Adding README badges that show status of GitHub Actions CI builds
   * None = Does not add README badges.
