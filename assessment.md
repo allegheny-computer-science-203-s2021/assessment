@@ -246,7 +246,11 @@ TODO: add description for each assessment level for this skill.
 
 * Conflicts
 
-TODO: add description for each assessment level for this skill.
+* None: When a conflict arises, student does not acknowledge finding a resolution with the other(s) and the conflict affects the work.
+* Inadequate: When a conflict arises, student talks through it, but is unable to find a resolution.
+* Adequate: When a conflict arises, student talks through it and and a sub-par resolution is achieved.
+* Good: When a conflict arises, student talks through it and finds a solution.
+* Excellent: When a conflict arises, student talks through it, finds a solution with the other students, and appologizes for the mishap.
 
 * Infractions
 
