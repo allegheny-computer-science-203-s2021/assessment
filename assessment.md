@@ -235,7 +235,13 @@ TODO: add description for each assessment level for this skill.
 
 * Conduct
 
-TODO: add description for each assessment level for this skill.
+  * None: Student physically attacks other students and yells at them, insults and acts rudely towards other students. Sabotages the project
+    if student in group does not get their way
+  * Inadequate: Student tries to pick a fight with everyone, acts rudely and is unaccepting of students. Refuses to work with others.
+  * Adequate: Student follows rules and works with everyone and is respectful.
+  * Good: Student is kind and respectful. Openminded and willing to learn. Works with everyone.
+  * Excellent: Student kind and respectful. Openminded and eager to learn. Works with everyone and is helpful
+
 
 * Decisions
 
@@ -263,7 +269,7 @@ TODO: add description for each assessment level for this skill.
 
 * Infractions
 
-  * None: 5th time = fail 
+  * None: 5th time = fail
   * Inadequate:4th time = overall grade reduction
   * Adequate:3rd time = grade reduction for assignment
   * Good: 2nd time = talk with professor
