@@ -145,10 +145,10 @@ TODO: add description for each assessment level for this skill.
 
 
 * :flushed: = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
-* :worried: = Adds one requirement for the program
-* :neutral_face: = Adds two requirements for the program
-* :blush: = Adds three requirements for the program
-* :laughing: = Adds more than three requirements for the program and shows knowledge of what the program is doing
+* :worried: = Adding requirements, but not making them user-focused.
+* :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements.
+* :blush: = Adding user-focused requirements with appropriate estimates, but the individual requirements involve a multitude of different tasks instead of just one.
+* :laughing: = Adding user-focused requirements with appropriate estimates, and the individual requirments involve only one task.
 
 * Software architecture
 
