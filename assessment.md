@@ -204,10 +204,10 @@ TODO: add description for each assessment level for this skill.
 * Software testing
 
 * :flushed: = Does not have the tools installed to run the software in the first place.
-* :worried: = Has the correct tools installed but does not run the software or test cases.
-* :neutral_face: = Has the correct tools installed and runs the software, but doesn't run effective test cases.
-* :blush: = Has the correct tools installed, runs the software, and runs effective test cases.
-* :laughing: = identifies and understands which tools to use to test the software while
+* :worried: = Has the correct tools installed but does not run the software or create test cases. Even if test cases are created, they might not have a purpose.
+* :neutral_face: = Has the correct tools installed and runs the software, but doesn't create and run comprehensive test cases.
+* :blush: = Has the correct tools installed, runs the software, and creates comprehensive test cases.
+* :laughing: = identifies and understands which tools to use to test the software and create comprehensive test cases while
     also providing documentation and advice that helps other team members develop
     this skill.
 
