@@ -125,8 +125,8 @@ TODO: add description for each assessment level for this skill.
   * None = Does not set up any security features on project deliverables.
   * Inadequate = Sets up some security features on project deliverables, but project information is still easily compromisable.
   * Adequate = Properly sets up all appropriate security features on project deliverables.
-  * Good = Properly sets up all appropriate security features on project deliverables in way that is best-suited for how project is set up.
-  * Excellent =
+  * Good = Properly sets up all appropriate security features on project deliverables in way that is well-suited for given project deliverables.
+  * Excellent = Properly sets up all appropriate security features on project deliverables in way that is best-suited for given project deliverables, and actively monitors project for potential security threats or improvements.
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
   * None = Does not create third-party integrations with GitHub Actions CI.  
