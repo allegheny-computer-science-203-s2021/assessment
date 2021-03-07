@@ -147,7 +147,7 @@ TODO: add description for each assessment level for this skill.
 
 * Requirements engineering
 
-* :flushed: = Fails to adds any requirements for the program and shows no knowledge of what the program is doing.
+* :flushed: = Fails to add any requirements for the program and shows no knowledge of what the program is doing.
 * :worried: = Adding requirements, but not making them user-focused.
 * :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements.
 * :blush: = Adding user-focused requirements with appropriate estimates, but the individual requirements involve a multitude of different tasks instead of just one.
@@ -203,10 +203,10 @@ TODO: add description for each assessment level for this skill.
 
 * Software testing
 
-* :flushed: = Does not have the tools installed to run the software in the first place.
-* :worried: = Has the correct tools installed but does not run the software or create test cases. Even if test cases are created, they might not have a purpose.
-* :neutral_face: = Has the correct tools installed and runs the software, but doesn't create and run comprehensive test cases.
-* :blush: = Has the correct tools installed, runs the software, and creates comprehensive test cases.
+* :flushed: = Does not have the tools installed to test the software in the first place.
+* :worried: = Has the correct tools installed but does not test the software or create test cases. Even if test cases are created, they might not have a purpose.
+* :neutral_face: = Has the correct tools installed and tests the software, but doesn't create and run comprehensive test cases.
+* :blush: = Has the correct tools installed, tests the software, and creates comprehensive test cases.
 * :laughing: = Identifies and understands which tools to use to test the software and create comprehensive test cases while
     also providing documentation and advice that helps other team members develop
     this skill.
