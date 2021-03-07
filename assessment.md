@@ -119,47 +119,47 @@ TODO: add description for each assessment level for this skill.
 ### Continuous Integration with Github Actions
 
 * Setup and configuration of GitHub Actions CI
-  * None = Does not use Github Actions CI or have it set up on their repository.
-  * Inadequate = Set up Github Actions to a workflow that doesn't make sense with the program and its contributors or in a way that isn't functionally committed to the repository.
-  * Adequate = Properly set up a Github Actions workflow in a way that is usable to collaborators.
-  * Good = Set up a Github Actions workflow that streamlines the workflow process and makes process consistent among devices that have different installations.
-  * Excellent = Streamlines all major angles including testing and general communication using Github Actions.
+  * :flushed: = Does not use Github Actions CI or have it set up on their repository.
+  * :worried: = Set up Github Actions to a workflow that doesn't make sense with the program and its contributors or in a way that isn't functionally committed to the repository.
+  * :neutral_face: = Properly set up a Github Actions workflow in a way that is usable to collaborators.
+  * :blush: = Set up a Github Actions workflow that streamlines the workflow process and makes process consistent among devices that have different installations.
+  * :laughing: = Streamlines all major angles including testing and general communication using Github Actions.
 
 * Performing secure releases of project deliverables
-  * None = Does not set up any security features on project deliverables.
-  * Inadequate = Sets up some security features on project deliverables, but project information is still easily compromisable.
-  * Adequate = Properly sets up all appropriate security features on project deliverables.
-  * Good = Properly sets up all appropriate security features on project deliverables in way that is well-suited for given project deliverables.
-  * Excellent = Properly sets up all appropriate security features on project deliverables in way that is best-suited for given project deliverables, and actively monitors project for potential security threats or improvements.
+  * :flushed: = Does not set up any security features on project deliverables.
+  * :worried: = Sets up some security features on project deliverables, but project information is still easily compromisable.
+  * :neutral_face: = Properly sets up all appropriate security features on project deliverables.
+  * :blush: = Properly sets up all appropriate security features on project deliverables in way that is well-suited for given project deliverables.
+  * :laughing: = Properly sets up all appropriate security features on project deliverables in way that is best-suited for given project deliverables, and actively monitors project for potential security threats or improvements.
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
-  * None = Does not create third-party integrations with GitHub Actions CI.  
-  * Inadequate = Is able to occasionally integrate GitHub with a third party. Still lacks fundamental knowledge of how to do so consistently
-  * Adequate = Contributes third party integrations on a fairly consistent basis. Could use more knowledge on the subject, however.
-  * Good = Often times integrates third party software with Github. Very knowledgeable on how to do so.
-  * Excellent = Leads the way for the team when integrating Github with a third party. Can easily explain to the team how they did so.
+  * :flushed: = Does not create third-party integrations with GitHub Actions CI.
+  * :worried: = Is able to occasionally integrate GitHub with a third party. Still lacks fundamental knowledge of how to do so consistently
+  * :neutral_face: = Contributes third party integrations on a fairly consistent basis. Could use more knowledge on the subject, however.
+  * :blush: = Often times integrates third party software with Github. Very knowledgeable on how to do so.
+  * :laughing: = Leads the way for the team when integrating Github with a third party. Can easily explain to the team how they did so.
 
 * Adding README badges that show status of GitHub Actions CI builds
-  * None = Does not add README badges.
-  * Inadequate = Rarely adds README badges that show status of builds, never addressing any errors made.
-  * Adequate = Occasionally adds README badges that show status of builds, rarely addressing errors any errors made.
-  * Good = Frequently adds README badges that show status of builds, often addressing any errors made.
-  * Excellent = Adds README badges that show status of builds, always addressing any errors made.
+  * :flushed: = Does not add README badges.
+  * :worried: = Rarely adds README badges that show status of builds, never addressing any errors made.
+  * :neutral_face: = Adds necessary README badges that show status of builds, occasionally addressing any errors made.
+  * :blush: = Adds necessary README badges that show status of builds, often addressing any errors made.
+  * :laughing: = Adds necessary README badges that show status of builds, always addressing any errors made to ensure that the badge is working correctly.
 
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
-  * None = Does not add README badges.
-  * Inadequate = Rarely adds README badges that show project characteristics, never addressing any errors made.
-  * Adequate = Occasionally adds README badges that show project characteristics, rarely addressing errors any errors made.
-  * Good = Frequently adds README badges that show that show project characteristics, often addressing any errors made.
-  * Excellent = Adds README badges that show project characteristics, always addressing any errors made.
+  * :flushed: = Does not add README badges.
+  * :worried: = Rarely adds README badges that show project characteristics, never addressing any errors made.
+  * :neutral_face: = Occasionally adds README badges that show project characteristics, rarely addressing errors any errors made.
+  * :blush: = Frequently adds README badges that show that show project characteristics, often addressing any errors made.
+  * :laughing: = Adds README badges that show project characteristics, always addressing any errors made.
 
 * Identifying and resolving problems with failing builds in GitHub Actions CI
-  * None = Ignores all problems in GitHub Actions CI, routinely makes and does not resolve basic coding errors.
-  * Inadequate = Occasionally identifies problems with builds, does not solve problems.
-  * Adequate = Frequently identifies problems, occasionally solves them partially.
-  * Good = Frequently identifies problems and makes strides to solve them at least partially. Occasionally provides documentation.
-  * Excellent = Routinely identifies and solves the problems behind failing builds and documents any fixes for future use.
+  * :flushed: = Ignores all problems in GitHub Actions CI, routinely makes and does not resolve basic coding errors.
+  * :worried: = Occasionally identifies problems with builds, does not solve problems.
+  * :neutral_face: = Frequently identifies problems, occasionally solves them partially.
+  * :blush: = Frequently identifies problems and makes strides to solve them at least partially. Occasionally provides documentation.
+  * :laughing: = Routinely identifies and solves the problems behind failing builds and documents any fixes for future use.
 
 ### Foundations of Software Engineering
 
