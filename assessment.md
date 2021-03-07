@@ -28,8 +28,8 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Formatting Python programs with `black`
 
-* :flushed: = Doesn't have `black` at all
-* :worried: = Doesn't use `black` at all
+* :flushed: = Doesn't have `black` at all.
+* :worried: = Doesn't use `black` at all.
 * :neutral_face: = Successfully uses `black` to format code.
 * :blush: = Uses `black` on a routine basis.
 * :laughing: = Uses `black` on a routine basis while also being able to help others develop the skill as well.
@@ -147,7 +147,7 @@ TODO: add description for each assessment level for this skill.
 
 * Requirements engineering
 
-* :flushed: = Fails to adds any requirements for the program and shows no knowledge of what the program is doing
+* :flushed: = Fails to adds any requirements for the program and shows no knowledge of what the program is doing.
 * :worried: = Adding requirements, but not making them user-focused.
 * :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements.
 * :blush: = Adding user-focused requirements with appropriate estimates, but the individual requirements involve a multitude of different tasks instead of just one.
@@ -158,8 +158,8 @@ TODO: add description for each assessment level for this skill.
 * :flushed: = The program demonstrates no understanding or implementation of software architecture.
 * :worried: = The program displays experience with software architecture, but there are flow and design issues.
 * :neutral_face: = The program displays experience and understanding of software architecture with minimal flow and design issues.
-* :blush: = the program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
-* :laughing: = the program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. The student develops concepts and is able to help other team members with the architecture of their software.
+* :blush: = The program displays an extensive knowledge of software architecture theory and underlying experience with no flow or design issues.
+* :laughing: = The program displays an extensive knowledge of software theory and underlying experience as a means of conducting and managing the design/flow. The student develops concepts and is able to help other team members with the architecture of their software.
 
 * Software design
 
@@ -171,11 +171,11 @@ TODO: add description for each assessment level for this skill.
 
 * Software documentation
 
-* :flushed: = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included
-* :worried: = A short explanation, no solution to the problem, and no example is included
-* :neutral_face: = A good explanation, a short solution to the problem, and a short example is included
-* :blush: = A detailed explanation, a solution to the problem, a short example is included
-* :laughing: = A detailed explanation, a detailed solution to the problem, a interactive example is included
+* :flushed: = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included.
+* :worried: = A short explanation, no solution to the problem, and no example is included.
+* :neutral_face: = A good explanation, a short solution to the problem, and a short example is included.
+* :blush: = A detailed explanation, a solution to the problem, a short example is included.
+* :laughing: = A detailed explanation, a detailed solution to the problem, a interactive example is included.
 
 * Programming styles
 
@@ -207,7 +207,7 @@ TODO: add description for each assessment level for this skill.
 * :worried: = Has the correct tools installed but does not run the software or create test cases. Even if test cases are created, they might not have a purpose.
 * :neutral_face: = Has the correct tools installed and runs the software, but doesn't create and run comprehensive test cases.
 * :blush: = Has the correct tools installed, runs the software, and creates comprehensive test cases.
-* :laughing: = identifies and understands which tools to use to test the software and create comprehensive test cases while
+* :laughing: = Identifies and understands which tools to use to test the software and create comprehensive test cases while
     also providing documentation and advice that helps other team members develop
     this skill.
 
