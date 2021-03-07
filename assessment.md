@@ -148,10 +148,10 @@ TODO: add description for each assessment level for this skill.
 * Requirements engineering
 
 * :flushed: = Fails to add any requirements for the program and shows no knowledge of what the program is doing.
-* :worried: = Adding requirements, but not making them user-focused.
-* :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements.
-* :blush: = Adding user-focused requirements with appropriate estimates, but the individual requirements involve a multitude of different tasks instead of just one.
-* :laughing: = Adding user-focused requirements with appropriate estimates, and the individual requirments involve only one task.
+* :worried: = Adding requirements, but not making them user-focused. Also, requirements might be added only at the start of the process, not through the whole process.
+* :neutral_face: = Adding user-focused requirements, but not having appropriate estimates for those requirements. Plus, these requirements aren't even addressed in the engineering process.
+* :blush: = Adding user-focused requirements with appropriate estimates, but the individual requirements involve a multitude of different tasks instead of just one. However, these requirements are addressed in the engineering process.
+* :laughing: = Adding user-focused requirements with appropriate estimates, and the individual requirments involve only one task. There's also a routine check of these requirements to make sure that they are compatible with the project goals. In addition, the whole project is designed beforehand, facilitating the creation of requirements.
 
 * Software architecture
 
@@ -171,11 +171,11 @@ TODO: add description for each assessment level for this skill.
 
 * Software documentation
 
-* :flushed: = No explanation of what the software does, no solution to the problem presented, and no example of where the code be used is included.
-* :worried: = A short explanation, no solution to the problem, and no example is included.
-* :neutral_face: = A good explanation, a short solution to the problem, and a short example is included.
-* :blush: = A detailed explanation, a solution to the problem, a short example is included.
-* :laughing: = A detailed explanation, a detailed solution to the problem, a interactive example is included.
+* :flushed: = No explanation of what the software does.
+* :worried: = There's some commented code that explains what the software does, but there's nothing else such as READMEs, type hints, or docstrings that increase the readibility of the code.
+* :neutral_face: = There are comments, type hints, and docstrings in the source code that don't necessarily increase readibility, and there's nothing outside of the source code such as READMEs or feature documentations that give a more comprehensive picture of the project.
+* :blush: = There are comments, type hints, and docstrings in the source code that drastically increase readibility, but there's nothing outside of the source code such as READMEs or feature documentations that give a more comprehensive picture of the project.
+* :laughing: = In addition to comments, type hints, and docstrings in the source code, there are also READMEs or feature documentations outside of the code that give a full picture of what the project is supposed to do.
 
 * Programming styles
 
