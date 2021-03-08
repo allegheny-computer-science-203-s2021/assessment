@@ -122,8 +122,8 @@ TODO: add description for each assessment level for this skill.
   * :flushed: = Does not use Github Actions CI or have it set up on their repository.
   * :worried: = Set up Github Actions to a workflow that doesn't make sense with the program and its contributors or in a way that isn't functionally committed to the repository.
   * :neutral_face: = Properly set up a Github Actions workflow in a way that is usable to collaborators.
-  * :blush: = Set up a Github Actions workflow that streamlines the workflow process and makes process consistent among devices that have different installations.
-  * :laughing: = Streamlines all major angles including testing and general communication using Github Actions.
+  * :blush: = Set up a Github Actions workflow that streamlines and makes process consistent among devices that have different installations.
+  * :laughing: = Streamlines all major angles of project including testing and general communication using Github Actions.
 
 * Performing secure releases of project deliverables
   * :flushed: = Does not set up any security features on project deliverables.
