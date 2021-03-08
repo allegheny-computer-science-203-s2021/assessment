@@ -120,7 +120,7 @@ TODO: add description for each assessment level for this skill.
 
 * Setup and configuration of GitHub Actions CI
   * :flushed: = Does not use Github Actions CI or have it set up on their repository.
-  * :worried: = Set up Github Actions CI to a workflow that doesn't make sense with the program and its contributors or in a way that isn't functionally committed to the repository.
+  * :worried: = Set up Github Actions CI to a workflow that doesn't make sense with the program and its contributors or in a way that doesn't functionally commit to the repository.
   * :neutral_face: = Properly set up a Github Actions CI workflow in a way that is usable to collaborators.
   * :blush: = Set up a Github Actions CI workflow that streamlines and makes process consistent among devices that have different installations.
   * :laughing: = Streamlines all major angles of project including testing and general communication using Github Actions CI.
