@@ -260,9 +260,16 @@ The objective for the interaction with a customer is supposed to be smooth and e
 
 * Interaction with the course instructor
 
-- Effective interaction with the course instructor would be being respectful. The both student and instructor should respect each other's time and effort. Students should have appropriate specific questions about programming/ technical problems. Students have to let the instructor know if he/she is understanding the topics and keeping up with her.
+- None: students do not have any conversation with the instructor except attending the class and not participating.
 
-- Ineffective interaction with the course instructor would be not coming to office hours and communicating to the instructor. If the students do not tell the what is happening to their study, the teacher can not help the students. Without the instructor's guidance, students will not know if they are going on the right path or not. 
+- Inadequate: Ask questions during class time occasionally but do not listen nor complete assignments given by the
+instructor. Do not show any effort to improve their knowledge.
+
+- Adequate: Show up to the instructors office hours inconsistently. However, students ask and answer the instructor's questions and show eager to learn and develop. Complete the assignments in time.
+
+- Good: Students have appropriate specific questions about programming/ technical problems. Interacts with the instructor in a proper manner and discuss solutions of their labs or practicals.
+
+- Excellence: Come to the office hours consistently with their class assignments. Students are open to talk about their process and progress in the class and ask for personal recommendations. Additionally, students are fluent to communicate through in-person and Slack.
 
 * Interaction with the student technical leaders
 
