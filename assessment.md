@@ -132,7 +132,6 @@ TODO: add description for each assessment level for this skill.
     * :blush: = Uses secrets for all sensitive information and often uses Github security settings in way that is well-suited to the project while setting up the project.
     * :laughing: = Uses secrets for all sensitive information and consistently uses Github security settings in a way that is best-suited to their project.
 
-
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
   * :flushed: = Does not create third-party integrations with GitHub Actions CI.
   * :worried: = Is able to occasionally integrate GitHub with a third party. Still lacks fundamental knowledge of how to do so consistently
