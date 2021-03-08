@@ -125,12 +125,13 @@ TODO: add description for each assessment level for this skill.
   * :blush: = Set up a Github Actions CI workflow that streamlines and makes process consistent among devices that have different installations.
   * :laughing: = Streamlines all major angles of project including testing and general communication using Github Actions CI.
 
-* Performing secure releases of project deliverables
-  * :flushed: = Does not set up any security features on project deliverables.
-  * :worried: = Sets up some security features on project deliverables, but project information is still easily compromisable.
-  * :neutral_face: = Properly sets up all appropriate security features on project deliverables.
-  * :blush: = Properly sets up all appropriate security features on project deliverables in way that is well-suited for given project deliverables.
-  * :laughing: = Properly sets up all appropriate security features on project deliverables in way that is best-suited for given project deliverables, and actively monitors project for potential security threats or improvements.
+  * Performing secure releases of project deliverables
+    * :flushed: = Little to no awareness of security settings or features such as secrets on deliverables.
+    * :worried: = Able to set up some security features on Github Actions CI. Doesn't set up appropriate features consistently or regularly use secrets. for sensitive information.
+    * :neutral_face: = Able to set up security features such as secrets and settings on Github Actions CI and makes a minimum effort to set up security settings and use secrets for their project.
+    * :blush: = Uses secrets for all sensitive information and often uses Github security settings in way that is well-suited to the project while setting up the project.
+    * :laughing: = Uses secrets for all sensitive information and consistently uses Github security settings in a way that is best-suited to their project.
+
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
   * :flushed: = Does not create third-party integrations with GitHub Actions CI.
