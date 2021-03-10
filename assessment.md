@@ -119,29 +119,47 @@ TODO: add description for each assessment level for this skill.
 ### Continuous Integration with Github Actions
 
 * Setup and configuration of GitHub Actions CI
+  * :flushed: = Does not use Github Actions CI or have it set up on their repository.
+  * :worried: = Set up Github Actions CI to a workflow that doesn't make sense with the program and its contributors or in a way that doesn't functionally commit to the repository.
+  * :neutral_face: = Properly set up a Github Actions CI workflow in a way that is usable to collaborators.
+  * :blush: = Set up a Github Actions CI workflow that streamlines and makes process consistent among devices that have different installations.
+  * :laughing: = Streamlines all major angles of project including testing and general communication using Github Actions CI.
 
-TODO: add description for each assessment level for this skill.
-
-* Performing secure releases of project deliverables
-
-TODO: add description for each assessment level for this skill.
+  * Performing secure releases of project deliverables
+    * :flushed: = Little to no awareness of security settings or features such as secrets on deliverables.
+    * :worried: = Able to set up some security features on Github Actions CI. Doesn't set up appropriate features consistently or regularly use secrets. for sensitive information.
+    * :neutral_face: = Able to set up security features such as secrets and settings on Github Actions CI and makes a minimum effort to set up security settings and use secrets for their project.
+    * :blush: = Uses secrets for all sensitive information and often uses Github security settings in way that is well-suited to the project while setting up the project.
+    * :laughing: = Uses secrets for all sensitive information and consistently uses Github security settings in a way that is best-suited to their project.
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not create third-party integrations with GitHub Actions CI.
+  * :worried: = Is able to occasionally integrate GitHub with a third party. Still lacks fundamental knowledge of how to do so consistently
+  * :neutral_face: = Contributes third party integrations on a fairly consistent basis. Could use more knowledge on the subject, however.
+  * :blush: = Often times integrates third party software with Github. Very knowledgeable on how to do so.
+  * :laughing: = Leads the way for the team when integrating Github with a third party. Can easily explain to the team how they did so.
 
 * Adding README badges that show status of GitHub Actions CI builds
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not add README badges.
+  * :worried: = Rarely adds README badges that show status of builds, never addressing any errors made.
+  * :neutral_face: = Adds necessary README badges that show status of builds, occasionally addressing any errors made.
+  * :blush: = Adds necessary README badges that show status of builds, often addressing any errors made.
+  * :laughing: = Adds necessary README badges that show status of builds, always addressing any errors made to ensure that the badge is working correctly.
 
 * Adding README badges that show project characteristics (e.g., coverage and
   language)
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not add README badges.
+  * :worried: = Rarely adds README badges that show project characteristics, never addressing any errors made.
+  * :neutral_face: = Occasionally adds README badges that show project characteristics, rarely addressing errors any errors made.
+  * :blush: = Frequently adds README badges that show that show project characteristics, often addressing any errors made.
+  * :laughing: = Adds README badges that show project characteristics, always addressing any errors made.
 
 * Identifying and resolving problems with failing builds in GitHub Actions CI
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Ignores all problems in GitHub Actions CI, routinely makes and does not resolve basic coding errors.
+  * :worried: = Occasionally identifies problems with builds, does not solve problems.
+  * :neutral_face: = Frequently identifies problems, occasionally solves them partially.
+  * :blush: = Frequently identifies problems and makes strides to solve them at least partially. Occasionally provides documentation.
+  * :laughing: = Routinely identifies and solves the problems behind failing builds and documents any fixes for future use.
 
 ### Foundations of Software Engineering
 
