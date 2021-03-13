@@ -232,7 +232,6 @@ TODO: add description for each assessment level for this skill.
   * Good: Student does part and shows up and communicates effectively
   * Excellent: Student does part and works effectively and efficiently with group members. Communications effectively
 
-
 * Conduct
 
   * None: Student physically attacks other students and yells at them, insults and acts rudely towards other students. Sabotages the project
@@ -241,7 +240,6 @@ TODO: add description for each assessment level for this skill.
   * Adequate: Student follows rules and works with everyone and is respectful.
   * Good: Student is kind and respectful. Openminded and willing to learn. Works with everyone.
   * Excellent: Student kind and respectful. Openminded and eager to learn. Works with everyone and is helpful
-
 
 * Decisions
 
