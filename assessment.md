@@ -301,11 +301,11 @@ TODO: add description for each assessment level for this skill.
 
 * Conduct
 
-  * :flushed: = Student physically attacks other students and yells at them, insults and acts rudely towards other students. Sabotages the project if student in group does not get their way
-  * :worried: = Student tries to pick a fight with everyone, acts rudely and is unaccepting of students. Refuses to work with others.
-  * :neutral_face: = Student follows rules and works with everyone and is respectful.
-  * :blush: = Student is kind and respectful. Openminded and willing to learn. Works with everyone.
-  * :laughing: = Student kind and respectful. Openminded and eager to learn. Works with everyone and is helpful
+  * :flushed: = Student does not act in accordance with the code of conduct. They are a burden for the group.
+  * :worried: = Student does not entirely act in accordance with the code of conduct. They hinder the group with their behavior.
+  * :neutral_face: = Student acts in accordance with the code of conduct, but they do not anything to the group.
+  * :blush: = Student acts in accordance with the code of conduct. They are kind and respectful, but not the most helpful.
+  * :laughing: = Student acts in accordance with the code of conduct. They are also kind, respectful, open-minded and eager to learn.
 
 * Decisions
 
