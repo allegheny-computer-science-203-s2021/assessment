@@ -333,11 +333,11 @@ TODO: add description for each assessment level for this skill.
 
 * Infractions
 
-  * :flushed: = Student has incurred 5 infractions. Student will recieve substantial reductions in thier grade, likely resulting in a failing grade.
-  * :worried: = Student has incurred 4 infractions. Student will recieve a larger grade reduction.
-  * :neutral_face: = Student has incurred 3 infractions. Student will recieve an adequate grade reduction.
-  * :blush: = Student has incurred 2 infractions. Student is required to speak with the professor about conduct.
-  * :laughing: = Student has incurred only 1 or no infractions. If 1 has been incured, student is given a warning.
+  * :flushed: = Student incurs 5 or more infractions. Student will recieve substantial reductions in thier grade, likely resulting in a failing grade.
+  * :worried: = Student incurs 4 infractions. Student will recieve a larger grade reduction.
+  * :neutral_face: = Student incurs 3 infractions. Student will recieve an adequate grade reduction.
+  * :blush: = Student incurs 2 infractions. Student is required to speak with the professor about conduct.
+  * :laughing: = Student incurs only 1 or no infractions. If 1 has been incured, student is given a warning.
 
 ### Interactions
 
