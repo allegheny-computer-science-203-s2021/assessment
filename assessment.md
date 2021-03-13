@@ -309,11 +309,11 @@ TODO: add description for each assessment level for this skill.
 
 * Decisions
 
-  * :flushed: = Makes decisions without consulting the rest of the group.
-  * :worried: = Consults the group, but still makes their own decisions.
-  * :neutral_face: = Consults the group to come to a consensus of what decision should be made.
-  * :blush: = Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
-  * :laughing: = Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
+  * :flushed: = Student makes decisions without consulting the rest of the group.
+  * :worried: = Student consults the group, but still makes their own decisions.
+  * :neutral_face: = Student consults the group to come to a consensus of what decision should be made.
+  * :blush: = Student sonsults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
+  * :laughing: = Student consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
 
 * Postmortems
 
