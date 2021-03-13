@@ -277,11 +277,11 @@ TODO: add description for each assessment level for this skill.
 
 * Deadlines
 
-  * :flushed: = The student disregards and ignores deadlines and consistently turns in their work late.
-  * :worried: = This group member acknowledged the deadline but did not manage their time to meet it.
-  * :neutral_face: = This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and  unorganized.
-  * :blush: = This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
-  * :laughing: = This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for  any extensions if needed, and their work was very clean and organized.
+  * :flushed: = Student disregards and ignores deadlines and consistently turns in their work late.
+  * :worried: = Student acknowledgeds deadlines but does not manage their time to meet them.
+  * :neutral_face: = Student acknowledges deadlines and manages their time to meet them, but their work is unorganized.
+  * :blush: = Student keeps reminders of deadlines and manages their time to meet them. Their work is orderly.
+  * :laughing: = Student keeps reminders of deadlines and designates time to meet them. They ask for any extensions if needed, and their work is very clean and organized.
 
 * Communication
 
