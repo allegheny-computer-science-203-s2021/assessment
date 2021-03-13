@@ -293,11 +293,11 @@ TODO: add description for each assessment level for this skill.
 
 * Participation
 
-  * :flushed: = Student does not do any work or show up to anything zero communication
-  * :worried: = Student does no work and barely shows up with zero communication
-  * :neutral_face: = Student does some work and shows up and communicates
-  * :blush: = Student does part and shows up and communicates effectively
-  * :laughing: = Student does part and works effectively and efficiently with group members. Communications effectively
+  * :flushed: = Student fails to do their part in the group. They show no work ethic or communication skills.
+  * :worried: = Student fails to entirely complete their part in the group. They lack work ethic and communication skills.
+  * :neutral_face: = Student does thier part in the group, but lacks work ethic and commincation skills.
+  * :blush: = Student does thier part in the group, but does not show entirely effective work eithic and communication skills.
+  * :laughing: = Student does thier part in the group. They work effectively and efficiently with group members while maintaining good communication.
 
 * Conduct
 
