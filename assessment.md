@@ -277,7 +277,7 @@ TODO: add description for each assessment level for this skill.
 
 * Deadlines
 
-  * :flushed: = This group member has no disregard for the deadline and ignored it.
+  * :flushed: = The student disregards and ignores deadlines and consistently turns in their work late.
   * :worried: = This group member acknowledged the deadline but did not manage their time to meet it.
   * :neutral_face: = This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and  unorganized.
   * :blush: = This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
@@ -333,11 +333,11 @@ TODO: add description for each assessment level for this skill.
 
 * Infractions
 
-  * :flushed: = 5th time = fail
-  * :worried: = 4th time = overall grade reduction
-  * :neutral_face: = 3rd time = grade reduction for assignment
-  * :blush: = 2nd time = talk with professor
-  * :laughing: = 1nd time = a warning
+  * :flushed: = Student has incurred 5 infractions. Student will recieve substantial reductions in thier grade, likely resulting in a failing grade.
+  * :worried: = Student has incurred 4 infractions. Student will recieve a larger grade reduction.
+  * :neutral_face: = Student has incurred 3 infractions. Student will recieve an adequate grade reduction.
+  * :blush: = Student has incurred 2 infractions. Student is required to speak with the professor about conduct.
+  * :laughing: = Student has incurred only 1 or no infractions. If 1 has been incured, student is given a warning.
 
 ### Interactions
 
