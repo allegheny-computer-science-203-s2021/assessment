@@ -269,76 +269,75 @@ TODO: add description for each assessment level for this skill.
 
 * Attendance
 
-  * None: Student attended 0% of meetings.
-  * Inadequate: Student attended 30% of meetings.
-  * Adequate: Student attended 50% of meetings.
-  * Good: Student attended 70% of meetings.
-  * Excellent: Student attended 100% of meetings.
+  * :flushed: = Student attended 0% of meetings.
+  * :worried: = Student attended 30% of meetings.
+  * :neutral_face: = Student attended 50% of meetings.
+  * :blush: = Student attended 70% of meetings.
+  * :laughing: = Student attended 100% of meetings.
 
 * Deadlines
 
-  * None: This group member has no disregard for the deadline and ignored it.
-  * Inadequate: This group member acknowledged the deadline but did not manage their time to meet it.
-  * Adequate: This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and  unorganized.
-  * Good: This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
-  * Excellent: This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for  any extensions if needed, and their work was very clean and organized.
+  * :flushed: = This group member has no disregard for the deadline and ignored it.
+  * :worried: = This group member acknowledged the deadline but did not manage their time to meet it.
+  * :neutral_face: = This group member acknowledged the deadline and managed their time to meet the deadline, but the work was sloppy and  unorganized.
+  * :blush: = This group member kept a reminder of the deadline and managed their time to meet the deadline, and the work was orderly.
+  * :laughing: = This group member kept constant reminders of the deadline and designated time every day to meet the deadline, asked for  any extensions if needed, and their work was very clean and organized.
 
 * Communication
 
-  * None: Student does not interact with others, and neglects group members.
-  * Inadequate: Student responds to group members with great delay, and lacks contributions.
-  * Adequate: Student interacts with the group moderately and is in proper communication.
-  * Good: Student helps other group members and interacts frequently with the group.
-  * Excellent: Student leads the group discussions and helps other students.
+  * :flushed: = Student does not interact with others, and neglects group members.
+  * :worried: = Student responds to group members with great delay, and lacks contributions.
+  * :neutral_face: = Student interacts with the group moderately and is in proper communication.
+  * :blush: = Student helps other group members and interacts frequently with the group.
+  * :laughing: = Student leads the group discussions and helps other students.
 
 * Participation
 
-  * None: Student does not do any work or show up to anything zero communication
-  * Inadequate: Student does no work and barely shows up with zero communication
-  * Adequate: Student does some work and shows up and communicates
-  * Good: Student does part and shows up and communicates effectively
-  * Excellent: Student does part and works effectively and efficiently with group members. Communications effectively
+  * :flushed: = Student does not do any work or show up to anything zero communication
+  * :worried: = Student does no work and barely shows up with zero communication
+  * :neutral_face: = Student does some work and shows up and communicates
+  * :blush: = Student does part and shows up and communicates effectively
+  * :laughing: = Student does part and works effectively and efficiently with group members. Communications effectively
 
 * Conduct
 
-  * None: Student physically attacks other students and yells at them, insults and acts rudely towards other students. Sabotages the project
-    if student in group does not get their way
-  * Inadequate: Student tries to pick a fight with everyone, acts rudely and is unaccepting of students. Refuses to work with others.
-  * Adequate: Student follows rules and works with everyone and is respectful.
-  * Good: Student is kind and respectful. Openminded and willing to learn. Works with everyone.
-  * Excellent: Student kind and respectful. Openminded and eager to learn. Works with everyone and is helpful
+  * :flushed: = Student physically attacks other students and yells at them, insults and acts rudely towards other students. Sabotages the project if student in group does not get their way
+  * :worried: = Student tries to pick a fight with everyone, acts rudely and is unaccepting of students. Refuses to work with others.
+  * :neutral_face: = Student follows rules and works with everyone and is respectful.
+  * :blush: = Student is kind and respectful. Openminded and willing to learn. Works with everyone.
+  * :laughing: = Student kind and respectful. Openminded and eager to learn. Works with everyone and is helpful
 
 * Decisions
 
-  * None: Makes decisions without consulting the rest of the group.
-  * Inadequate: Consults the group, but still makes their own decisions.
-  * Adequate: Consults the group to come to a consensus of what decision should be made.
-  * Good: Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
-  * Excellent: Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
+  * :flushed: = Makes decisions without consulting the rest of the group.
+  * :worried: = Consults the group, but still makes their own decisions.
+  * :neutral_face: = Consults the group to come to a consensus of what decision should be made.
+  * :blush: = Consults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
+  * :laughing: = Consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
 
 * Postmortems
 
-  * None: Does not contribute when fixing remaining issue and blames other group members.
-  * Inadequate: Unwilling to fix postmortems in a proper manner, and isn't helping the team.
-  * Adequate: Subtly helps the group fix remaining issues.
-  * Good: Helps the group fix multiple issues, and contributes a lot.
-  * Excellent: Leads the group, and guides everyone to fix the issues as a team.
+  * :flushed: = Does not contribute when fixing remaining issue and blames other group members.
+  * :worried: = Unwilling to fix postmortems in a proper manner, and isn't helping the team.
+  * :neutral_face: = Subtly helps the group fix remaining issues.
+  * :blush: = Helps the group fix multiple issues, and contributes a lot.
+  * :laughing: = Leads the group, and guides everyone to fix the issues as a team.
 
 * Conflicts
 
-  * None: When a conflict arises, student does not acknowledge finding a resolution with the other(s) and the conflict affects the work.
-  * Inadequate: When a conflict arises, student talks through it, but is unable to find a resolution.
-  * Adequate: When a conflict arises, student talks through it and and a sub-par resolution is achieved.
-  * Good: When a conflict arises, student talks through it and finds a solution.
-  * Excellent: When a conflict arises, student talks through it, finds a solution with the other students, and appologizes for the mishap.
+  * :flushed: = When a conflict arises, student does not acknowledge finding a resolution with the other(s) and the conflict affects the work.
+  * :worried: = When a conflict arises, student talks through it, but is unable to find a resolution.
+  * :neutral_face: = When a conflict arises, student talks through it and and a sub-par resolution is achieved.
+  * :blush: = When a conflict arises, student talks through it and finds a solution.
+  * :laughing: = When a conflict arises, student talks through it, finds a solution with the other students, and appologizes for the mishap.
 
 * Infractions
 
-  * None: 5th time = fail
-  * Inadequate:4th time = overall grade reduction
-  * Adequate:3rd time = grade reduction for assignment
-  * Good: 2nd time = talk with professor
-  * Excellent:1nd time = a warning
+  * :flushed: = 5th time = fail
+  * :worried: = 4th time = overall grade reduction
+  * :neutral_face: = 3rd time = grade reduction for assignment
+  * :blush: = 2nd time = talk with professor
+  * :laughing: = 1nd time = a warning
 
 ### Interactions
 
