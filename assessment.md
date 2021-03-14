@@ -60,15 +60,15 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Using docstrings to document a Python program
 
- *None =
+ *None = Does not attempt to use docstrings for documentation
 
- *Inadequate =
+ *Inadequate = Uses docstrings but pays no attention to detail and does not properly document the program within them.
 
- *Adequate =
+ *Adequate = Uses docstrings that contain basic documentation that allow for a better understanding of the program.
 
- *Good =
+ *Good = Uses docstrings that contain a high-level overview of the program and allow for a good understanding of the program flow.
 
- *Excellent =
+ *Excellent = Uses docstrings that allow for readers to gain a high-level understanding of program flow and allows for further work to be done on code without any previous knowledge of the project itself.
 
 * Adopting and applying appropriate naming conventions
 
@@ -141,7 +141,7 @@ what the programmer is doing throughout the whole program
 
  *Inadequate = Uses very few appropriate Python packages, code still unclear
 
- *Adequate = Uses some appropriate Python packages 
+ *Adequate = Uses some appropriate Python packages
 
  *Good = Uses most of the needed Python packages clearly making code almost fully clear
 
