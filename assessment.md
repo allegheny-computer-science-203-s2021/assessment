@@ -36,7 +36,7 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Calculating code coverage of a `pytest` test suite
 
- * None =
+ *None =
 
  *Inadequate =
 
