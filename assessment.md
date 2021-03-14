@@ -24,11 +24,15 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  TODO: add description for each assessment level for this skill.
+  * 😳:
+  * 😟:
+  * 😐:
+  * 😊:
+  * 😆:
 
 * Linting Python programs with `pylint` and `flake8`
 
-  * 😳 = `pylint` and `flake8` are not installed on machine 
+  * 😳 = `pylint` and `flake8` are not installed on machine
   * 😟 = `pylint` and `flake8` are installed but not setup for use on machine
   * 😐 = `pylint` and `flake8` are setup and able to be used on code in text editor
   * 😊 = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
@@ -36,7 +40,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Formatting Python programs with `black`
 
-  TODO: add description for each assessment level for this skill.
+  * 😳: `black` formatting is not installed on machine
+  * 😟: `black` formatting is installed but not used
+  * 😐: `black` formatting is installed and used, but there are more than 2 formatting errors
+  * 😊: `black` formatting is installed and used, but there are 1-2 formatting errors
+  * 😆: `black` formatting is correctly used with no formatting errors
 
 * Basic testing of Python programs with `pytest`
 
