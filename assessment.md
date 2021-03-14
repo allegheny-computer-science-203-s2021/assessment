@@ -89,15 +89,18 @@ what the programmer is doing throughout the whole program
 
 * Using exception handling to create a robust Python program
 
- *None =
+ *None = Does not use exception handling in Python
 
- *Inadequate =
+ *Inadequate = Using "try" and "except" for Exception Handling partially for the program.
 
- *Adequate =
+ *Adequate = Using "try" and "except" for Exception Handling concisely and when required.
 
- *Good =
+ *Good = Using "raise" to throw an exception for different conditions and the concise usage of
+ "try" and "except" for Exception Handling in most parts of the program.
 
- *Excellent =
+ *Excellent = Using "raise" to throw an exception for different conditions and the concise usage of
+ "try" and "except" for Exception Handling throughout the whole program when required.
+
 
 * Refactoring a Python program to improve its characteristics
 
