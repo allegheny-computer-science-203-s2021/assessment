@@ -90,11 +90,11 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub issue tracker
 
-* None =
-* Inadequate =
-* Adequate =
-* Good =
-* Excellent =
+* None = Never uses the GitHub issue tracker.
+* Inadequate = Sometimes uses the GitHub issue tracker, lacks understanding
+* Adequate = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
+* Good = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
+* Excellent = Always uses the GitHub issue tracker, and always appropriately, informing the team about their new posts to the issue tracker.
 
 * Assigning team members to issues in the GitHub issue tracker
 
