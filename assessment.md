@@ -262,8 +262,11 @@ TODO: add description for each assessment level for this skill.
 TODO: add description for each assessment level for this skill.
 
 * Understanding and adopting best practices
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = None = Does not understand and perform best practices
+  * :worried: = Inadequate = Understands best practices, but does not perform them
+  * :neutral_face: = Adequate = Understands and adopts best practices only to a moderate amount
+  * :blush: = Good = Understands and performs best practices to a good amount
+  * :laughing: = Excellent = Perform best practices and assimilate that into all of their work very well
 
 ### Group
 
