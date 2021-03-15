@@ -146,11 +146,11 @@ TODO: add description for each assessment level for this skill.
 
 * Using appropriate commit messages
 
-  * :flushed: =
-  * :worried: =
-  * :neutral_face: =
-  * :blush: =
-  * :laughing: =
+  * :flushed: = The student doesn't write any commit message.
+  * :worried: = Student writes a non descriptive, unrelated commit message.
+  * :neutral_face: = Student writes a related commit message without description. 
+  * :blush: = Student writes a related commit message with description.
+  * :laughing: = Student writes a related commit message with description outlining what was changed since last commit. 
 
 ### Continuous Integration with Github Actions
 
