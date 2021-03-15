@@ -16,43 +16,43 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Configuring a development environment for Python
 
-  * 😳 = Development environment not configured.
-  * 😟 = Development environment only partially configured.
-  * 😐 = Development environment fully configured, but not tested.
-  * 😊 = Development environment fully configured and operational.
-  * 😆 = Development environment fully configured and operational, with access to all other tools needed in the course to complete assignments and projects with python.
+  * :flushed: = Development environment not configured.
+  * :worried: = Development environment only partially configured.
+  * :neutral_face: = Development environment fully configured, but not tested.
+  * :blush: = Development environment fully configured and operational.
+  * :laughing: = Development environment fully configured and operational, with access to all other tools needed in the course to complete assignments and projects with python.
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  * 😳 = `pyenv` and `pipenv` are not installed on the machine
-  * 😟 = `pyenv` and `pipenv` are installed but not setup
-  * 😐 = `pyenv` and `pipenv` are installed and setup
-  * 😊 = `pyenv` and `pipenv` are installed and setup and used to run program
-  * 😆 = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
+  * :flushed: = `pyenv` and `pipenv` are not installed on the machine
+  * :worried: = `pyenv` and `pipenv` are installed but not setup
+  * :neutral_face: = `pyenv` and `pipenv` are installed and setup
+  * :blush: = `pyenv` and `pipenv` are installed and setup and used to run program
+  * :laughing: = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
 
 * Linting Python programs with `pylint` and `flake8`
 
-  * 😳 = `pylint` and `flake8` are not installed on machine
-  * 😟 = `pylint` and `flake8` are installed but not setup for use on machine
-  * 😐 = `pylint` and `flake8` are setup and able to be used on code in text editor
-  * 😊 = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
-  * 😆 = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting
+  * :flushed: = `pylint` and `flake8` are not installed on machine
+  * :worried: = `pylint` and `flake8` are installed but not setup for use on machine
+  * :neutral_face: = `pylint` and `flake8` are setup and able to be used on code in text editor
+  * :blush: = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
+  * :laughing: = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting
 
 * Formatting Python programs with `black`
 
-  * 😳 = `black` formatting is not installed on machine
-  * 😟 = `black` formatting is installed but not used
-  * 😐 = `black` formatting is installed and used, but there are more than 2 formatting errors
-  * 😊 = `black` formatting is installed and used, but there are 1-2 formatting errors
-  * 😆 = `black` formatting is correctly used with no formatting errors
+  * :flushed: = `black` formatting is not installed on machine
+  * :worried: = `black` formatting is installed but not used
+  * :neutral_face: = `black` formatting is installed and used, but there are more than 2 formatting errors
+  * :blush: = `black` formatting is installed and used, but there are 1-2 formatting errors
+  * :laughing: = `black` formatting is correctly used with no formatting errors
 
 * Basic testing of Python programs with `pytest`
 
-  * 😳 = Does not use `pytest`
-  * 😟 = Uses `pytest`, but every test fails, or only uses a couple of basic tests.
-  * 😐 = Uses `pytest`, and includes some test cases and a few tests pass, or a few test
-  * 😊 = Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
-  * 😆 = Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
+  * :flushed: = Does not use `pytest`
+  * :worried: = Uses `pytest`, but every test fails, or only uses a couple of basic tests.
+  * :neutral_face: = Uses `pytest`, and includes some test cases and a few tests pass, or a few test
+  * :blush: = Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
+  * :laughing: = Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
 
 * Calculating code coverage of a `pytest` test suite
 
