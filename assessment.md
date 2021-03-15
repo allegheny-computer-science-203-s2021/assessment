@@ -101,7 +101,6 @@ what the programmer is doing throughout the whole program
  *Excellent = Using "raise" to throw an exception for different conditions and the concise usage of
  "try" and "except" for Exception Handling throughout the whole program when required.
 
-
 * Refactoring a Python program to improve its characteristics
 
  *None =
