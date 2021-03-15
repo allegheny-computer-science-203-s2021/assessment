@@ -83,10 +83,10 @@ TODO: add description for each assessment level for this skill.
 * Using the GitHub Flow model
 
 * None = Never has used the GitHub flow model before.
-* Inadequate =
-* Adequate =
-* Good =
-* Excellent =
+* Inadequate = Uses it occasionally, but at inappropriate times.
+* Adequate = Student uses it often, sometimes appropriately, but sometimes inappropriately as well.
+* Good = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
+* Excellent = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
 
 * Using the GitHub issue tracker
 
