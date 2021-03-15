@@ -262,11 +262,11 @@ TODO: add description for each assessment level for this skill.
 TODO: add description for each assessment level for this skill.
 
 * Understanding and adopting best practices
-  * :flushed: = None = Does not understand and perform best practices
-  * :worried: = Inadequate = Understands best practices, but does not perform them
-  * :neutral_face: = Adequate = Understands and adopts best practices only to a moderate amount
-  * :blush: = Good = Understands and performs best practices to a good amount
-  * :laughing: = Excellent = Perform best practices and assimilate that into all of their work very well
+  * :flushed: = Does not understand and perform best practices.
+  * :worried: = Understands best practices, but does not perform them.
+  * :neutral_face: = Understands and adopts best practices only to the bare minimum needed.
+  * :blush: = Understands and performs best practices to a good amount where the code is well documented.
+  * :laughing: = Perform best practices and incorporate that into all of their work very well, including good documentation, comments, efficient coding and other best practices.
 
 ### Group
 
