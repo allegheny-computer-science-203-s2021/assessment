@@ -115,15 +115,15 @@ what the programmer is doing throughout the whole program
 
 * Debugging Python programs using logging and other methods
 
- *None =
+ *None = No knowledge of debugging and constantly having bugged codes in programs.
 
- *Inadequate =
+ *Inadequate = Have a basic knowledge of the methods of debugging but don't utilize them effectively.
 
- *Adequate =
+ *Adequate = Having a solid knowledge on methods of debugging codes barring some occasional bugs.
 
- *Good =
+ *Good = Having codes that are always properly debugged.
 
- *Excellent =
+ *Excellent = Having codes that are properly debugged as well as knowledge and application of multiple debugging methods.
 
 * Adopting and using appropriate Python language constructs
 
