@@ -128,7 +128,7 @@ TODO: add description for each assessment level for this skill.
   * :blush: = The student uses forks often, but the student uses them when they are not always necessary.
   * :laughing: = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
-Merging a branch or a fork to another branch or fork
+* Merging a branch or a fork to another branch or fork
 
   * :flushed: = Not merging the branch or fork to another branch or fork
   * :worried: = Merging the branch or fork when there are merge conflicts still present in the original
