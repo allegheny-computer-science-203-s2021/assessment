@@ -262,10 +262,9 @@ The objective for the interaction with a customer is supposed to be smooth and e
 
 - :flushed: : students do not have any conversation with the instructor except attending the class and not participating.
 
-- :worried: : Ask questions during class time occasionally but do not listen nor complete assignments given by the
-instructor. Do not show any effort to improve their knowledge.
+- :worried: : Ask questions during class time occasionally but do not listen nor complete assignments given by the instructor. Do not show any effort to improve their knowledge.
 
--  :neutral_face: : Show up to the instructors office hours inconsistently. However, students ask and answer the instructor's questions and show eager to learn and develop. Complete the assignments in time.
+- :neutral_face: : Show up to the instructors office hours inconsistently. However, students ask and answer the instructor's questions and show eager to learn and develop. Complete the assignments in time.
 
 - :blush: : Students have appropriate specific questions about programming/ technical problems. Interacts with the instructor in a proper manner and discuss solutions of their labs or practicals.
 
