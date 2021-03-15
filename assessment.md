@@ -36,7 +36,7 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Calculating code coverage of a `pytest` test suite
 
- *None =
+ *None = Does not attempt to implement any test features with pytest.
 
  *Inadequate = Low code coverage due to inefficient coding.
 
@@ -103,15 +103,15 @@ what the programmer is doing throughout the whole program
 
 * Refactoring a Python program to improve its characteristics
 
- *None =
+ *None = Code is not refactored and remains in it's original state.
 
- *Inadequate =
+ *Inadequate = Code is refactored with minimal changes to the structure/flow of the program.
 
- *Adequate =
+ *Adequate = Code reflects a noticeable restructure and maintains all of it's previous function
 
- *Good =
+ *Good = Code reflects a beneficial restructure in terms of efficiency and performs all operations as previously expected.
 
- *Excellent =
+ *Excellent = Code is majorly restructured with large efficiency improvements over the previous program.
 
 * Debugging Python programs using logging and other methods
 
