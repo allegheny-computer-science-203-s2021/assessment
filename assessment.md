@@ -16,19 +16,19 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Configuring a development environment for Python
 
-  * 😳: Development environment not configured.
-  * 😟: Development environment only partially configured.
-  * 😐: Development environment fully configured, but not tested.
-  * 😊: Development environment fully configured and operational.
-  * 😆: Development environment fully configured and operational, with access to all other tools needed in the course to complete assignments and projects with python.
+  * 😳 = Development environment not configured.
+  * 😟 = Development environment only partially configured.
+  * 😐 = Development environment fully configured, but not tested.
+  * 😊 = Development environment fully configured and operational.
+  * 😆 = Development environment fully configured and operational, with access to all other tools needed in the course to complete assignments and projects with python.
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  * 😳: `pyenv` and `pipenv` are not installed on the machine
-  * 😟: `pyenv` and `pipenv` are installed but not setup
-  * 😐: `pyenv` and `pipenv` are installed and setup
-  * 😊: `pyenv` and `pipenv` are installed and setup and used to run program
-  * 😆: `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
+  * 😳 = `pyenv` and `pipenv` are not installed on the machine
+  * 😟 = `pyenv` and `pipenv` are installed but not setup
+  * 😐 = `pyenv` and `pipenv` are installed and setup
+  * 😊 = `pyenv` and `pipenv` are installed and setup and used to run program
+  * 😆 = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
 
 * Linting Python programs with `pylint` and `flake8`
 
@@ -40,19 +40,19 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Formatting Python programs with `black`
 
-  * 😳: `black` formatting is not installed on machine
-  * 😟: `black` formatting is installed but not used
-  * 😐: `black` formatting is installed and used, but there are more than 2 formatting errors
-  * 😊: `black` formatting is installed and used, but there are 1-2 formatting errors
-  * 😆: `black` formatting is correctly used with no formatting errors
+  * 😳 = `black` formatting is not installed on machine
+  * 😟 = `black` formatting is installed but not used
+  * 😐 = `black` formatting is installed and used, but there are more than 2 formatting errors
+  * 😊 = `black` formatting is installed and used, but there are 1-2 formatting errors
+  * 😆 = `black` formatting is correctly used with no formatting errors
 
 * Basic testing of Python programs with `pytest`
 
-  * 😳: Does not use `pytest`
-  * 😟: Uses `pytest`, but every test fails, or only uses a couple of basic tests.
-  * 😐: Uses `pytest`, and includes some test cases and a few tests pass, or a few test
-  * 😊: Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
-  * 😆: Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
+  * 😳 = Does not use `pytest`
+  * 😟 = Uses `pytest`, but every test fails, or only uses a couple of basic tests.
+  * 😐 = Uses `pytest`, and includes some test cases and a few tests pass, or a few test
+  * 😊 = Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
+  * 😆 = Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
 
 * Calculating code coverage of a `pytest` test suite
 
