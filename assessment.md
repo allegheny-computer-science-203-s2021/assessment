@@ -24,11 +24,11 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  * 😳:
-  * 😟:
-  * 😐:
-  * 😊:
-  * 😆:
+  * 😳: `pyenv` and `pipenv` are not installed on the machine
+  * 😟: `pyenv` and `pipenv` are installed but not setup
+  * 😐: `pyenv` and `pipenv` are installed and setup
+  * 😊: `pyenv` and `pipenv` are installed and setup and used to run program
+  * 😆: `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
 
 * Linting Python programs with `pylint` and `flake8`
 
