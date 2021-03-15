@@ -82,75 +82,75 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub Flow model
 
-* None = Never has used the GitHub flow model before.
-* Inadequate = Uses it occasionally, but at inappropriate times.
-* Adequate = Student uses it often, sometimes appropriately, but sometimes inappropriately as well.
-* Good = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
-* Excellent = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
+  * :flushed: = Never has used the GitHub flow model before.
+  * :worried: = Uses it occasionally, but at inappropriate times.
+  * :neutral_face: = Student uses it often, sometimes appropriately, but sometimes inappropriately as well.
+  * :blush: = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
+  * :laughing: = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
 
 * Using the GitHub issue tracker
 
-* None = Never uses the GitHub issue tracker.
-* Inadequate = Sometimes uses the GitHub issue tracker, lacks understanding
-* Adequate = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
-* Good = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
-* Excellent = Always uses the GitHub issue tracker, and always appropriately, informing the team about their new posts to the issue tracker.
+  * :flushed: = Never uses the GitHub issue tracker.
+  * :worried: = Sometimes uses the GitHub issue tracker, lacks understanding
+  * :neutral_face: = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
+  * :blush: = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
+  * :laughing: = Always uses the GitHub issue tracker, and always appropriately, informing the team about their new posts to the issue tracker.
 
 * Assigning team members to issues in the GitHub issue tracker
 
-* None: Student clearly does not know how or when to assign members to issues.
-* Inadequate: Student knows how to add members to issues, but never does this appropriately.
-* Adequate: Student communicates with members sometimes, but needs to check with the team more often when assigning members to issues.
-* Good: Student knows how and when to add members to issues, but sometimes does not communicate with the team on what they are doing.
-* Excellent: Communication and knowledge is superior.  Student's teammates are always aware and have agreed upon which issues they are going to be assigned to.
+  * :flushed: = Student clearly does not know how to assign members to issues.
+  * :worried: = Student knows how to add members to issues, but never does this appropriately.
+  * :neutral_face: = Student communicates with members sometimes, but needs to check with the team more often when assigning members to issues.
+  * :blush: = Student knows how and when to add members to issues, but sometimes does not communicate with the team on what they are doing.
+  * :laughing: = Communication and knowledge is superior.  Student's teammates are always aware and have agreed upon which issues they are going to be assigned to.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-* None =
-* Inadequate =
-* Adequate =
-* Good =
-* Excellent =
+  * :flushed: =
+  * :worried: =
+  * :neutral_face: =
+  * :blush: =
+  * :laughing: =
 
 * Creating and using a repository branch
 
-- None = Never uses repository branches.
-- Inadequate = Uses repository branches when they are not appropriate.
-- Adequate = Occasionally uses branches appropriately, but needs to use them more frequently.
-- Good = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
-- Excellent = Always uses branches when appropriate, and uses them frequently.
+  * :flushed: = Never uses repository branches.
+  * :worried: = Uses repository branches when they are not appropriate.
+  * :neutral_face: = Occasionally uses branches appropriately, but needs to use them more frequently.
+  * :blush: = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
+  * :laughing: = Always uses branches when appropriate, and uses them frequently.
 
 * Creating and using a repository fork
 
-* None = Never uses repository forks.
-* Inadequate = Sometimes uses forks, but not when appropriate.
-* Adequate = Student uses forks when necessary.
-* Good = The student uses forks often, but the student uses them when they are not always necessary.
-* Excellent = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
+  * :flushed: = Never uses repository forks.
+  * :worried: = Sometimes uses forks, but not when appropriate.
+  * :neutral_face: = Student uses forks when necessary.
+  * :blush: = The student uses forks often, but the student uses them when they are not always necessary.
+  * :laughing: = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 Merging a branch or a fork to another branch or fork
 
-* None = Not merging the branch or fork to another branch or fork
-* Inadequate = Merging the branch or fork when there are merge conflicts still present in the original
-* Adequate = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
-* Good = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
-* Excellent = Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
+  * :flushed: = Not merging the branch or fork to another branch or fork
+  * :worried: = Merging the branch or fork when there are merge conflicts still present in the original
+  * :neutral_face: = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
+  * :blush: = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
+  * :laughing: = Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
 
 * Creating and reviewing a pull request
 
-* None = Do not know how to review a pull request
-* Inadequate = Have knowledge of pull requests, but fail to act upon it
-* Adequate = Review pull requests and act on steps required, but fail to know how to fix all conflicts
-* Good = Review pull requests and act on steps required while avoiding merge conflicts
-* Excellent = Review pull requests, act on steps required, avoid merge conflicts, and add comments
+  * :flushed: = Do not know how to review a pull request
+  * :worried: = Have knowledge of pull requests, but fail to act upon it
+  * :neutral_face: = Review pull requests and act on steps required, but fail to know how to fix all conflicts
+  * :blush: = Review pull requests and act on steps required while avoiding merge conflicts
+  * :laughing: = Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
-* None =
-* Inadequate =
-* Adequate =
-* Good =
-* Excellent =
+  * :flushed: =
+  * :worried: =
+  * :neutral_face: =
+  * :blush: =
+  * :laughing: =
 
 ### Continuous Integration with Github Actions
 
