@@ -38,25 +38,25 @@ Replace TODOs with abbreviations, or emoji, or ...
 
  *None =
 
- *Inadequate =
+ *Inadequate = Low code coverage due to inefficient coding.
 
- *Adequate =
+ *Adequate = Having average code coverage and making attempt to improve code coverage by efficient coding.
 
- *Good =
+ *Good = Having high code coverage on a fairly regular basis and knowing how to further improve code coverage.
 
- *Excellent =
+ *Excellent = Always having code coverage, ensuring maximum software efficiency.
 
 * Reporting code coverage through an online provider
 
- *None =
+ *None = Not knowing what code coverage is or how to use online provider to report code coverage.
 
- *Inadequate =
+ *Inadequate = Knowing how to report code coverage but not doing it very often
 
- *Adequate =
+ *Adequate = Knowing how to report code coverage and report at a fairly regular basis.
 
- *Good =
+ *Good =  Reporting code coverage at a regular basis and making attempts to improve code coverage through efficient coding.
 
- *Excellent =
+ *Excellent = Reporting code coverage at a regular basis and constantly improving software with efficient coding.
 
 * Using docstrings to document a Python program
 
