@@ -317,11 +317,11 @@ TODO: add description for each assessment level for this skill.
 
 * Postmortems
 
-  * :flushed: = Student does not contribute when fixing remaining issue and blames other group members.
-  * :worried: = Student is unwilling to fix postmortems in a proper manner, and isn't helping the team.
-  * :neutral_face: = Student subtly helps the group fix remaining issues.
-  * :blush: = Student helps the group fix multiple issues, and contributes a lot.
-  * :laughing: = Student leads the group, and guides everyone to fix the issues as a team.
+  * :flushed: = Student does not contribute in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student does not follow through on decided actions to better future work.
+  * :worried: = Student does not give many contributions in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student does a poor job of following through on decided actions to better future work.
+  * :neutral_face: = Student gives minor contributions in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student attempts to follow through on decided actions to better future work.
+  * :blush: = Student contributes in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student also follows through on decided actions to better future work.
+  * :laughing: = Student greatly contributes in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student also follows through on decided actions to better future work.
 
 * Conflicts
 
