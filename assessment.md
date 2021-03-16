@@ -288,39 +288,75 @@ TODO: add description for each assessment level for this skill.
 
 * Attendance
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student attends little or no group meetings, with excuses being invalid and poorly communicated.
+  * :worried: = Student misses many group meetings, with many excuses being invalid and poorly comminicated.
+  * :neutral_face: = Student attends the majoruty of group meetings, with most excuses being valid and communicated.
+  * :blush: = Student attends the majority of group meetings, with all excuses being valid and communicated.
+  * :laughing: = Student attends every group meeting, with any exceptions being valid and communicated beforehand.
 
 * Deadlines
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student disregards and ignores deadlines and consistently turns in their work late.
+  * :worried: = Student acknowledgeds deadlines but does not manage their time to meet them.
+  * :neutral_face: = Student acknowledges deadlines and manages their time to meet them, but their work is unorganized.
+  * :blush: = Student keeps reminders of deadlines and manages their time to meet them. Their work is orderly.
+  * :laughing: = Student keeps reminders of deadlines and designates time to meet them. They ask for any extensions if needed, and their work is very clean and organized.
 
 * Communication
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student does not interact with others, and neglects group members.
+  * :worried: = Student responds to group members with great delay, and lacks contributions.
+  * :neutral_face: = Student interacts with the group moderately and is in proper communication.
+  * :blush: = Student helps other group members and interacts frequently with the group.
+  * :laughing: = Student leads the group discussions and helps other students.
 
 * Participation
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student fails to do their part in the group. They show no work ethic or communication skills.
+  * :worried: = Student fails to entirely complete their part in the group. They lack work ethic and communication skills.
+  * :neutral_face: = Student does thier part in the group, but lacks work ethic and commincation skills.
+  * :blush: = Student does thier part in the group, but does not show entirely effective work eithic and communication skills.
+  * :laughing: = Student does thier part in the group. They work effectively and efficiently with group members while maintaining good communication.
 
 * Conduct
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student does not act in accordance with the code of conduct. They are a burden for the group.
+  * :worried: = Student does not entirely act in accordance with the code of conduct. They hinder the group with their behavior.
+  * :neutral_face: = Student acts in accordance with the code of conduct, but they do not anything to the group.
+  * :blush: = Student acts in accordance with the code of conduct. They are kind and respectful, but not the most helpful.
+  * :laughing: = Student acts in accordance with the code of conduct. They are also kind, respectful, open-minded and eager to learn.
 
 * Decisions
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student makes decisions without consulting the rest of the group.
+  * :worried: = Student consults the group, but still makes their own decisions.
+  * :neutral_face: = Student consults the group to come to a consensus of what decision should be made.
+  * :blush: = Student sonsults the group to come to a consensus of what decision should be made, whether or not they believe it to be the best answer
+  * :laughing: = Student consults the group and contributes to a healthy conversation to come to a consensus of what decision should be made, whether or not they believe it to be the best answer, and supports it.
 
 * Postmortems
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student does not contribute in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student does not follow through on decided actions to better future work.
+  * :worried: = Student does not give many contributions in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student does a poor job of following through on decided actions to better future work.
+  * :neutral_face: = Student gives minor contributions in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student attempts to follow through on decided actions to better future work.
+  * :blush: = Student contributes in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student also follows through on decided actions to better future work.
+  * :laughing: = Student greatly contributes in discussions to figure out what went well, what went wrong and what can be done to better the group's work in the future. Student also follows through on decided actions to better future work.
 
 * Conflicts
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = When a conflict arises, student does not acknowledge finding a resolution with the other(s) and the conflict affects the work.
+  * :worried: = When a conflict arises, student talks through it, but is unable to find a resolution.
+  * :neutral_face: = When a conflict arises, student talks through it and and a sub-par resolution is achieved.
+  * :blush: = When a conflict arises, student talks through it and finds a solution.
+  * :laughing: = When a conflict arises, student talks through it, finds a solution with the other students, and appologizes for the mishap.
 
 * Infractions
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student incurs 5 or more infractions. Student will recieve substantial reductions in thier grade, likely resulting in a failing grade.
+  * :worried: = Student incurs 4 infractions. Student will recieve a larger grade reduction.
+  * :neutral_face: = Student incurs 3 infractions. Student will recieve an adequate grade reduction.
+  * :blush: = Student incurs 2 infractions. Student is required to speak with the professor about conduct.
+  * :laughing: = Student incurs 1 or no infractions. If 1 has been incured, student is given a warning.
 
 ### Interactions
 
