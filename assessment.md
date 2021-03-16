@@ -337,7 +337,7 @@ TODO: add description for each assessment level for this skill.
   * :worried: = Student incurs 4 infractions. Student will recieve a larger grade reduction.
   * :neutral_face: = Student incurs 3 infractions. Student will recieve an adequate grade reduction.
   * :blush: = Student incurs 2 infractions. Student is required to speak with the professor about conduct.
-  * :laughing: = Student incurs only 1 or no infractions. If 1 has been incured, student is given a warning.
+  * :laughing: = Student incurs 1 or no infractions. If 1 has been incured, student is given a warning.
 
 ### Interactions
 
