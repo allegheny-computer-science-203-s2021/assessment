@@ -106,7 +106,7 @@ TODO: add description for each assessment level for this skill.
 
 * Using the GitHub issue tracker
 
-  * :flushed: = Never uses the GitHub issue tracker.
+  * :flushed: = No indication that the GitHub issue tracker was used.
   * :worried: = Sometimes uses the GitHub issue tracker, lacks understanding
   * :neutral_face: = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
   * :blush: = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
