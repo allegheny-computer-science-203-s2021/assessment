@@ -124,8 +124,8 @@ TODO: add description for each assessment level for this skill.
 
   * :flushed: = Never uses repository forks.
   * :worried: = Sometimes uses forks, but not when appropriate.
-  * :neutral_face: = Student uses forks when necessary.
-  * :blush: = The student uses forks often, but the student uses them when they are not always necessary.
+  * :neutral_face: = The student uses forks a little too often, and sometimes uses them when they are not necessary.
+  * :blush: = The student uses forks when necessary
   * :laughing: = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 * Merging a branch or a fork to another branch or fork
