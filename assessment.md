@@ -100,7 +100,7 @@ TODO: add description for each assessment level for this skill.
 
   * :flushed: = Never has used the GitHub flow model before.
   * :worried: = Uses it occasionally, but at inappropriate times.
-  * :neutral_face: = Student uses it often, sometimes appropriately, but sometimes inappropriately as well.
+  * :neutral_face: = Student uses it often, sometimes appropriately, but sometimes inappropriately as well, such as writing commit messages that are unrelated or not useful.
   * :blush: = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
   * :laughing: = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
 
