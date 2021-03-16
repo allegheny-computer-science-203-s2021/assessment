@@ -106,11 +106,11 @@ TODO: add description for each assessment level for this skill.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-  * :flushed: =
-  * :worried: =
-  * :neutral_face: =
-  * :blush: =
-  * :laughing: =
+  * :flushed: = Does not use Github issue tracker labels.
+  * :worried: = Student creates labels incorrectly with incorrect label .
+  * :neutral_face: = Student creates labels correctly with incorrect label.
+  * :blush: = Student creates label correctly with correct label.
+  * :laughing: = Student creates label correctly with correct label that explains why type of submission it is to issues.
 
 * Creating and using a repository branch
 
