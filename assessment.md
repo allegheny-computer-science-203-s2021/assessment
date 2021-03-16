@@ -134,7 +134,7 @@ TODO: add description for each assessment level for this skill.
   * :worried: = Uses repository branches when they are not appropriate.
   * :neutral_face: = Occasionally uses branches appropriately, but needs to use them more frequently.
   * :blush: = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
-  * :laughing: = Always uses branches when appropriate, and uses them frequently.
+  * :laughing: = Always uses branches when appropriate, and uses them frequently.  The branches are named appropriately, and it is updated with the main branch as much as possible.
 
 * Creating and using a repository fork
 
@@ -150,7 +150,7 @@ TODO: add description for each assessment level for this skill.
   * :worried: = Merging the branch or fork when there are merge conflicts still present in the original
   * :neutral_face: = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
   * :blush: = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
-  * :laughing: = Merging the branch or fork with no merge conflicts, with reviewers, and with comments about what it is
+  * :laughing: = Merging the branch or fork with no merge conflicts, with reviewers, and with a description about what it is
 
 * Creating and reviewing a pull request
 
