@@ -126,7 +126,7 @@ TODO: add description for each assessment level for this skill.
   * :worried: = Student creates labels incorrectly with incorrect label .
   * :neutral_face: = Student creates labels correctly with incorrect label.
   * :blush: = Student creates label correctly with correct label.
-  * :laughing: = Student creates label correctly with correct label that explains why type of submission it is to issues.
+  * :laughing: = Student creates label correctly with label that explains what type of submission it is to issues.
 
 * Creating and using a repository branch
 
