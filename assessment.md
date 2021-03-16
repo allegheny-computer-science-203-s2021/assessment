@@ -40,130 +40,79 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Calculating code coverage of a `pytest` test suite
 
- *None = Does not attempt to implement any test features with pytest.
+  * :flushed: = Does not attempt to implement any test features with pytest.
 
- *Inadequate = Low code coverage due to inefficient coding.
+  * :worried: = Low code coverage due to inefficient coding.
 
- *Adequate = Having average code coverage and making attempt to improve code coverage by efficient coding.
+  * :neutral_face: = Having average code coverage and making attempt to improve code coverage by efficient coding.
 
- *Good = Having high code coverage on a fairly regular basis and knowing how to further improve code coverage.
+  * :blush: = Having high code coverage on a fairly regular basis and knowing how to further improve code coverage.
 
- *Excellent = Always having code coverage, ensuring maximum software efficiency.
+  * :laughing: = Always having code coverage, ensuring maximum software efficiency.
 
 * Reporting code coverage through an online provider
 
- *None = Not knowing what code coverage is or how to use online provider to report code coverage.
+  * :flushed: = Not knowing what code coverage is or how to use online provider to report code coverage.
 
- *Inadequate = Knowing how to report code coverage but not doing it very often
+  * :worried: = Knowing how to report code coverage but not doing it very often
 
- *Adequate = Knowing how to report code coverage and report at a fairly regular basis.
+  * :neutral_face: = Knowing how to report code coverage and report at a fairly regular basis.
 
- *Good =  Reporting code coverage at a regular basis and making attempts to improve code coverage through efficient coding.
+  * :blush: =  Reporting code coverage at a regular basis and making attempts to improve code coverage through efficient coding.
 
- *Excellent = Reporting code coverage at a regular basis and constantly improving software with efficient coding.
+  * :laughing: = Reporting code coverage at a regular basis and constantly improving software with efficient coding.
 
 * Using docstrings to document a Python program
 
- *None = Does not attempt to use docstrings for documentation
+  * :flushed: = Does not attempt to use docstrings for documentation
 
- *Inadequate = Uses docstrings but pays no attention to detail and does not properly document the program within them.
+  * :worried: = Uses docstrings but pays no attention to detail and does not properly document the program within them.
 
- *Adequate = Uses docstrings that contain basic documentation that allow for a better understanding of the program.
+  * :neutral_face: = Uses docstrings that contain basic documentation that allow for a better understanding of the program.
 
- *Good = Uses docstrings that contain a high-level overview of the program and allow for a good understanding of the program flow.
+  * :blush: = Uses docstrings that contain a high-level overview of the program and allow for a good understanding of the program flow.
 
- *Excellent = Uses docstrings that allow for readers to gain a high-level understanding of program flow and allows for further work to be done on code without any previous knowledge of the project itself.
+  * :laughing: = Uses docstrings that allow for readers to gain a high-level understanding of program flow and allows for further work to be done on code without any previous knowledge of the project itself.
 
 * Adopting and applying appropriate naming conventions
 
- *None = Uses unclear and not concise naming conventions to convey what the
-programmer is doing through the whole program
+  * :flushed: = Uses unclear and not concise naming conventions to convey what the
+  programmer is doing through the whole program
 
- *Inadequate = Uses clear and concise naming conventions to convey what the
-programmer is doing for a small portion of the program
+  * :worried: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for a small portion of the program
 
- *Adequate = Uses clear and concise naming conventions to convey what the
-programmer is doing for some of the program
+  * :neutral_face: = Uses clear and concise naming conventions to convey what the programmer is doing for some of the program
 
- *Good = Uses clear and concise naming conventions to convey what the
-programmer is doing for most of the program
+  * :blush: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for most of the program
 
- *Excellent  Utilizes clear and concise naming conventions to convey
-what the programmer is doing throughout the whole program
+  * :laughing:  Utilizes clear and concise naming conventions to convey
+  what the programmer is doing throughout the whole program
 
 * Using exception handling to create a robust Python program
 
- *None = Does not use exception handling in Python
+  * :flushed: = Does not use exception handling in Python
 
- *Inadequate = Using "try" and "except" for Exception Handling partially for the program.
+  * :worried: = Using "try" and "except" for Exception Handling partially for the program.
 
- *Adequate = Using "try" and "except" for Exception Handling concisely and when required.
+  * :neutral_face: = Using "try" and "except" for Exception Handling concisely and when required.
 
- *Good = Using "raise" to throw an exception for different conditions and the concise usage of
- "try" and "except" for Exception Handling in most parts of the program.
+  * :blush: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling in most parts of the program.
 
- *Excellent = Using "raise" to throw an exception for different conditions and the concise usage of
- "try" and "except" for Exception Handling throughout the whole program when required.
+  * :laughing: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling throughout the whole program when required.
 
 * Refactoring a Python program to improve its characteristics
 
- *None = Code is not refactored and remains in it's original state.
+  * :flushed: = Code is not refactored and remains in it's original state.
 
- *Inadequate = Code is refactored with minimal changes to the structure/flow of the program.
+  * :worried: = Code is refactored with minimal changes to the structure/flow of the program.
 
- *Adequate = Code reflects a noticeable restructure and maintains all of it's previous function
+  * :neutral_face: = Code reflects a noticeable restructure and maintains all of it's previous function
 
- *Good = Code reflects a beneficial restructure in terms of efficiency and performs all operations as previously expected.
+  * :blush: = Code reflects a beneficial restructure in terms of efficiency and performs all operations as previously expected.
 
- *Excellent = Code is majorly restructured with large efficiency improvements over the previous program.
-
-* Debugging Python programs using logging and other methods
-
- *None = No knowledge of debugging and constantly having bugged codes in programs.
-
- *Inadequate = Have a basic knowledge of the methods of debugging but don't utilize them effectively.
-
- *Adequate = Having a solid knowledge on methods of debugging codes barring some occasional bugs.
-
- *Good = Having codes that are always properly debugged.
-
- *Excellent = Having codes that are properly debugged as well as knowledge and application of multiple debugging methods.
-
-* Adopting and using appropriate Python language constructs
-
- *None = Failure to understand or use basic Python language constructs.
-
- *Inadequate = Makes an attempt to use Python language construct but lacks understanding of fundamentals.
-
- *Adequate = Able to apply Python language on a somewhat consistent basis and have a generally understanding on the fundamentals.
-
- *Good = Able to utilize the language to a fairly proficient degree and have a good grasp on the fundamentals.
-
- *Excellent = Clear and concise use of Python language, knowing what the use for the right situations.
-
-* Adopting and using appropriate Python packages
-
- *None = Uses inappropriate Python packages making code unclear
-
- *Inadequate = Uses very few appropriate Python packages, code still unclear
-
- *Adequate = Uses some appropriate Python packages
-
- *Good = Uses most of the needed Python packages clearly making code almost fully clear
-
- *Excellent = Uses all of the needed Python packages clearly
-
-* Adhering to industry best practices for programming in Python
-
- *None = Does not make an attempt to adhere to industry best practices.
-
- *Inadequate = Attempts to adhere to industry best practices but does not meet the satisfactions.
-
- *Adequate = Successfully adheres to industry best practices with room for improvement.
-
- *Good = Successfully adheres to industry best practices with minor room for improvement.
-
- *Excellent = Nearly perfectly adheres to industry best practices with very little error.
+  * :laughing: = Code is majorly restructured with large efficiency improvements over the previous program.
 
 ### Project Management with GitHub
 
