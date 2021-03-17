@@ -109,39 +109,75 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Using the GitHub Flow model
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never has used the GitHub flow model before.
+  * :worried: = Uses it occasionally, but at inappropriate times.
+  * :neutral_face: = Student uses it often, sometimes appropriately, but sometimes inappropriately as well, such as writing commit messages that are unrelated or not useful.
+  * :blush: = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
+  * :laughing: = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
 
 * Using the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = No indication that the GitHub issue tracker was used.
+  * :worried: = Sometimes uses the GitHub issue tracker, but doesn't utilize labels and give no description of the issue
+  * :neutral_face: = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
+  * :blush: = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
+  * :laughing: = Always uses the GitHub issue tracker, and always appropriately, informing the team about their new posts to the issue tracker.
 
 * Assigning team members to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student clearly does not know how to assign members to issues.
+  * :worried: = Student knows how to add members to issues, but never does this appropriately.
+  * :neutral_face: = Student communicates with members sometimes, but needs to check with the team more often when assigning members to issues.
+  * :blush: = Student knows how and when to add members to issues, but sometimes does not communicate with the team on what they are doing.
+  * :laughing: = Communication and knowledge is superior.  Student's teammates are always aware and have agreed upon which issues they are going to be assigned to.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not use Github issue tracker labels.
+  * :worried: = Student creates labels incorrectly with incorrect label .
+  * :neutral_face: = Student creates labels correctly with incorrect label.
+  * :blush: = Student creates label correctly with correct label.
+  * :laughing: = Student creates label correctly with label that explains what type of submission it is to issues.
 
 * Creating and using a repository branch
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never uses repository branches.
+  * :worried: = Uses repository branches when they are not appropriate.
+  * :neutral_face: = Occasionally uses branches appropriately, but needs to use them more frequently.
+  * :blush: = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
+  * :laughing: = Always uses branches when appropriate, and uses them frequently.  The branches are named appropriately, and it is updated with the main branch as much as possible.
 
 * Creating and using a repository fork
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never uses repository forks.
+  * :worried: = Sometimes uses forks, but not when appropriate.
+  * :neutral_face: = The student uses forks a little too often, and sometimes uses them when they are not necessary.
+  * :blush: = The student uses forks when necessary
+  * :laughing: = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 * Merging a branch or a fork to another branch or fork
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Not merging the branch or fork to another branch or fork
+  * :worried: = Merging the branch or fork when there are merge conflicts still present in the original
+  * :neutral_face: = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
+  * :blush: = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
+  * :laughing: = Merging the branch or fork with no merge conflicts, with reviewers, and with a description about what it is
 
 * Creating and reviewing a pull request
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Do not know how to review a pull request
+  * :worried: = Have knowledge of pull requests, but fail to act upon it
+  * :neutral_face: = Review pull requests and act on steps required, but fail to know how to fix all conflicts
+  * :blush: = Review pull requests and act on steps required while avoiding merge conflicts
+  * :laughing: = Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = The student doesn't write any commit message.
+  * :worried: = Student writes a non descriptive, unrelated commit message.
+  * :neutral_face: = Student writes a related commit message without description.
+  * :blush: = Student writes a related commit message with description.
+  * :laughing: = Student writes a related commit message with description outlining what was changed since last commit.
 
 ### Continuous Integration with Github Actions
 
