@@ -24,75 +24,86 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  * :flushed: = `pyenv` and `pipenv` are not installed on the machine
-  * :worried: = `pyenv` and `pipenv` are installed but not setup
-  * :neutral_face: = `pyenv` and `pipenv` are installed and setup
-  * :blush: = `pyenv` and `pipenv` are installed and setup and used to run program
-  * :laughing: = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
+  * :flushed: = `pyenv` and `pipenv` are not installed on the machine.
+  * :worried: = `pyenv` and `pipenv` are installed but not setup.
+  * :neutral_face: = `pyenv` and `pipenv` are installed and setup.
+  * :blush: = `pyenv` and `pipenv` are installed and setup and used to run program.
+  * :laughing: = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`.
 
 * Linting Python programs with `pylint` and `flake8`
 
-  * :flushed: = `pylint` and `flake8` are not installed on machine
-  * :worried: = `pylint` and `flake8` are installed but not setup for use on machine
-  * :neutral_face: = `pylint` and `flake8` are setup and able to be used on code in text editor
-  * :blush: = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
-  * :laughing: = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting
+  * :flushed: = `pylint` and `flake8` are not installed on machine.
+  * :worried: = `pylint` and `flake8` are installed but not setup for use on machine.
+  * :neutral_face: = `pylint` and `flake8` are setup and able to be used on code in text editor.
+  * :blush: = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions.
+  * :laughing: = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting.
 
 * Formatting Python programs with `black`
 
-  * :flushed: = `black` formatting is not installed on machine
-  * :worried: = `black` formatting is installed but not used
-  * :neutral_face: = `black` formatting is installed and used, but there are more than 2 formatting errors
-  * :blush: = `black` formatting is installed and used, but there are 1-2 formatting errors
-  * :laughing: = `black` formatting is correctly used with no formatting errors
+  * :flushed: = `black` formatting is not installed on machine.
+  * :worried: = `black` formatting is installed but not used.
+  * :neutral_face: = `black` formatting is installed and used, but there are more than 2 formatting errors.
+  * :blush: = `black` formatting is installed and used, but there are 1-2 formatting errors.
+  * :laughing: = `black` formatting is correctly used with no formatting errors.
 
 * Basic testing of Python programs with `pytest`
 
-  * :flushed: = Does not use `pytest`
+  * :flushed: = Does not use `pytest`.
   * :worried: = Uses `pytest`, but every test fails, or only uses a couple of basic tests.
-  * :neutral_face: = Uses `pytest`, and includes some test cases and a few tests pass, or a few test
+  * :neutral_face: = Uses `pytest`, and includes some test cases and a few tests pass, or a few test.
   * :blush: = Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
   * :laughing: = Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
 
 * Calculating code coverage of a `pytest` test suite
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not attempt to implement any test features with pytest.
+  * :worried: = Low code coverage located in any test files.
+  * :neutral_face: = Having average code coverage and making attempt to improve code coverage in test files.
+  * :blush: = Having high code coverage on a fairly regular basis and knowing how to further improve code coverage.
+  * :laughing: = Always having code coverage, ensuring maximum software coverage within test files.
 
 * Reporting code coverage through an online provider
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Not knowing what code coverage is or how to use online provider to report code coverage.
+  * :worried: = Knowing how to report code coverage but not doing it very often.
+  * :neutral_face: = Knowing how to report code coverage and report at a fairly regular basis.
+  * :blush: = Reporting code coverage at a regular basis and making attempts to improve code coverage through using thorough test suite.
+  * :laughing: = Reporting code coverage at a regular basis and constantly improving software with using thorough test suite.
 
 * Using docstrings to document a Python program
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not attempt to use docstrings for documentation.
+  * :worried: = Uses docstrings but pays no attention to detail and does not properly document the program within them.
+  * :neutral_face: = Uses docstrings that contain basic documentation that allow for a better understanding of the program.
+  * :blush: = Uses docstrings that contain a high-level overview of the program and allow for a good understanding of the program flow.
+  * :laughing: = Uses docstrings that allow for readers to gain a high-level understanding of program flow and allows for further work to be done on code without any previous knowledge of the project itself.
 
 * Adopting and applying appropriate naming conventions
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Uses unclear and not concise naming conventions to convey what the programmer is doing through the whole program.
+  * :worried: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for a small portion of the program.
+  * :neutral_face: = Uses clear and concise naming conventions to convey what the programmer is doing for some of the program.
+  * :blush: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for most of the program.
+  * :laughing:  Utilizes clear and concise naming conventions to convey
+  what the programmer is doing throughout the whole program.
 
 * Using exception handling to create a robust Python program
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not use exception handling in Python.
+  * :worried: = Using "try" and "except" for Exception Handling partially for the program.
+  * :neutral_face: = Using "try" and "except" for Exception Handling concisely and when required.
+  * :blush: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling in most parts of the program.
+  * :laughing: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling throughout the whole program when required.
 
 * Refactoring a Python program to improve its characteristics
 
-TODO: add description for each assessment level for this skill.
-
-* Debugging Python programs using logging and other methods
-
-TODO: add description for each assessment level for this skill.
-
-* Adopting and using appropriate Python language constructs
-
-TODO: add description for each assessment level for this skill.
-
-* Adopting and using appropriate Python packages
-
- TODO: add description for each assessment level for this skill.
-
-* Adhering to industry best practices for programming in Python
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Code is not refactored and remains in it's original state.
+  * :worried: = Code is refactored with minimal changes to the structure/flow of the program.
+  * :neutral_face: = Code reflects a noticeable restructure and maintains all of it's previous function.
+  * :blush: = Code reflects a beneficial restructure in terms of efficiency and performs all operations as previously expected.
+  * :laughing: = Code is majorly restructured with large efficiency improvements over the previous program.
 
 ### Project Management with GitHub
 
