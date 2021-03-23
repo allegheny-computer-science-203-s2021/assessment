@@ -24,113 +24,160 @@ Replace TODOs with abbreviations, or emoji, or ...
 
 * Running Python programs with `pyenv` and `pipenv`
 
-  * :flushed: = `pyenv` and `pipenv` are not installed on the machine
-  * :worried: = `pyenv` and `pipenv` are installed but not setup
-  * :neutral_face: = `pyenv` and `pipenv` are installed and setup
-  * :blush: = `pyenv` and `pipenv` are installed and setup and used to run program
-  * :laughing: = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`
+  * :flushed: = `pyenv` and `pipenv` are not installed on the machine.
+  * :worried: = `pyenv` and `pipenv` are installed but not setup.
+  * :neutral_face: = `pyenv` and `pipenv` are installed and setup.
+  * :blush: = `pyenv` and `pipenv` are installed and setup and used to run program.
+  * :laughing: = `pyenv` and `pipenv` are installed and setup to run program and test suite with `pytest: pipenv run pytest`.
 
 * Linting Python programs with `pylint` and `flake8`
 
-  * :flushed: = `pylint` and `flake8` are not installed on machine
-  * :worried: = `pylint` and `flake8` are installed but not setup for use on machine
-  * :neutral_face: = `pylint` and `flake8` are setup and able to be used on code in text editor
-  * :blush: = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions
-  * :laughing: = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting
+  * :flushed: = `pylint` and `flake8` are not installed on machine.
+  * :worried: = `pylint` and `flake8` are installed but not setup for use on machine.
+  * :neutral_face: = `pylint` and `flake8` are setup and able to be used on code in text editor.
+  * :blush: = Able to run and use `pylint` and `flake8` in text editor to see mistakes or suggestions.
+  * :laughing: = Able to run and use `pylint` and `flake8` in text editor to see suggestions by the programs and correct these mistakes while understanding why these instances needed to be changed to follow proper formatting.
 
 * Formatting Python programs with `black`
 
-  * :flushed: = `black` formatting is not installed on machine
-  * :worried: = `black` formatting is installed but not used
-  * :neutral_face: = `black` formatting is installed and used, but there are more than 2 formatting errors
-  * :blush: = `black` formatting is installed and used, but there are 1-2 formatting errors
-  * :laughing: = `black` formatting is correctly used with no formatting errors
+  * :flushed: = `black` formatting is not installed on machine.
+  * :worried: = `black` formatting is installed but not used.
+  * :neutral_face: = `black` formatting is installed and used, but there are more than 2 formatting errors.
+  * :blush: = `black` formatting is installed and used, but there are 1-2 formatting errors.
+  * :laughing: = `black` formatting is correctly used with no formatting errors.
 
 * Basic testing of Python programs with `pytest`
 
-  * :flushed: = Does not use `pytest`
+  * :flushed: = Does not use `pytest`.
   * :worried: = Uses `pytest`, but every test fails, or only uses a couple of basic tests.
-  * :neutral_face: = Uses `pytest`, and includes some test cases and a few tests pass, or a few test
+  * :neutral_face: = Uses `pytest`, and includes some test cases and a few tests pass, or a few test.
   * :blush: = Uses `pytest`, and either includes a sufficient amount of test cases, but not all pass, or includes almost enough test cases to cover all parts and every test passes.
   * :laughing: = Uses `pytest`, and includes enough test cases to cover every aspect of the program, and all tests pass.
 
 * Calculating code coverage of a `pytest` test suite
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not attempt to implement any test features with pytest.
+  * :worried: = Low code coverage located in any test files.
+  * :neutral_face: = Having average code coverage and making attempt to improve code coverage in test files.
+  * :blush: = Having high code coverage on a fairly regular basis and knowing how to further improve code coverage.
+  * :laughing: = Always having code coverage, ensuring maximum software coverage within test files.
 
 * Reporting code coverage through an online provider
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Not knowing what code coverage is or how to use online provider to report code coverage.
+  * :worried: = Knowing how to report code coverage but not doing it very often.
+  * :neutral_face: = Knowing how to report code coverage and report at a fairly regular basis.
+  * :blush: = Reporting code coverage at a regular basis and making attempts to improve code coverage through using thorough test suite.
+  * :laughing: = Reporting code coverage at a regular basis and constantly improving software with using thorough test suite.
 
 * Using docstrings to document a Python program
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not attempt to use docstrings for documentation.
+  * :worried: = Uses docstrings but pays no attention to detail and does not properly document the program within them.
+  * :neutral_face: = Uses docstrings that contain basic documentation that allow for a better understanding of the program.
+  * :blush: = Uses docstrings that contain a high-level overview of the program and allow for a good understanding of the program flow.
+  * :laughing: = Uses docstrings that allow for readers to gain a high-level understanding of program flow and allows for further work to be done on code without any previous knowledge of the project itself.
 
 * Adopting and applying appropriate naming conventions
 
-  TODO: add description for each assessment level for this skill.
+  * :flushed: = Uses unclear and not concise naming conventions to convey what the programmer is doing through the whole program.
+  * :worried: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for a small portion of the program.
+  * :neutral_face: = Uses clear and concise naming conventions to convey what the programmer is doing for some of the program.
+  * :blush: = Uses clear and concise naming conventions to convey what the
+  programmer is doing for most of the program.
+  * :laughing:  Utilizes clear and concise naming conventions to convey
+  what the programmer is doing throughout the whole program.
 
 * Using exception handling to create a robust Python program
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not use exception handling in Python.
+  * :worried: = Using "try" and "except" for Exception Handling partially for the program.
+  * :neutral_face: = Using "try" and "except" for Exception Handling concisely and when required.
+  * :blush: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling in most parts of the program.
+  * :laughing: = Using "raise" to throw an exception for different conditions and the concise usage of "try" and "except" for Exception Handling throughout the whole program when required.
 
 * Refactoring a Python program to improve its characteristics
 
-TODO: add description for each assessment level for this skill.
-
-* Debugging Python programs using logging and other methods
-
-TODO: add description for each assessment level for this skill.
-
-* Adopting and using appropriate Python language constructs
-
-TODO: add description for each assessment level for this skill.
-
-* Adopting and using appropriate Python packages
-
- TODO: add description for each assessment level for this skill.
-
-* Adhering to industry best practices for programming in Python
-
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Code is not refactored and remains in it's original state.
+  * :worried: = Code is refactored with minimal changes to the structure/flow of the program.
+  * :neutral_face: = Code reflects a noticeable restructure and maintains all of it's previous function.
+  * :blush: = Code reflects a beneficial restructure in terms of efficiency and performs all operations as previously expected.
+  * :laughing: = Code is majorly restructured with large efficiency improvements over the previous program.
 
 ### Project Management with GitHub
 
 * Using the GitHub Flow model
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never has used the GitHub flow model before.
+  * :worried: = Uses it occasionally, but at inappropriate times.
+  * :neutral_face: = Student uses it often, sometimes appropriately, but sometimes inappropriately as well, such as writing commit messages that are unrelated or not useful.
+  * :blush: = Clearly knows what the GitHub flow model is, as the student successfully uses it occasionally, but there is still room for improvement.
+  * :laughing: = Student clearly knows how and when to create branches in a project, and has an understanding of how the GitHub Flow model works.
 
 * Using the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = No indication that the GitHub issue tracker was used.
+  * :worried: = Sometimes uses the GitHub issue tracker, but doesn't utilize labels and give no description of the issue
+  * :neutral_face: = Knows how to use the issue tracker, and understands what it means, but rarely responds to issues that the team posts.
+  * :blush: = Often uses the issue tracker, but doesn't communicate enough with the team, sometimes causing confusion among the group.
+  * :laughing: = Always uses the GitHub issue tracker, and always appropriately, informing the team about their new posts to the issue tracker.
 
 * Assigning team members to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Student clearly does not know how to assign members to issues.
+  * :worried: = Student knows how to add members to issues, but never does this appropriately.
+  * :neutral_face: = Student communicates with members sometimes, but needs to check with the team more often when assigning members to issues.
+  * :blush: = Student knows how and when to add members to issues, but sometimes does not communicate with the team on what they are doing.
+  * :laughing: = Communication and knowledge is superior.  Student's teammates are always aware and have agreed upon which issues they are going to be assigned to.
 
 * Creating and assigning labels to issues in the GitHub issue tracker
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Does not use Github issue tracker labels.
+  * :worried: = Student creates labels incorrectly with incorrect label .
+  * :neutral_face: = Student creates labels correctly with incorrect label.
+  * :blush: = Student creates label correctly with correct label.
+  * :laughing: = Student creates label correctly with label that explains what type of submission it is to issues.
 
 * Creating and using a repository branch
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never uses repository branches.
+  * :worried: = Uses repository branches when they are not appropriate.
+  * :neutral_face: = Occasionally uses branches appropriately, but needs to use them more frequently.
+  * :blush: = Demonstrates knowledge relating to the use of branches, but isn't perfect with their use.
+  * :laughing: = Always uses branches when appropriate, and uses them frequently.  The branches are named appropriately, and it is updated with the main branch as much as possible.
 
 * Creating and using a repository fork
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Never uses repository forks.
+  * :worried: = Sometimes uses forks, but not when appropriate.
+  * :neutral_face: = The student uses forks a little too often, and sometimes uses them when they are not necessary.
+  * :blush: = The student uses forks when necessary
+  * :laughing: = Student demonstrates superior ability to use forks and always knows when they are necessary to use.
 
 * Merging a branch or a fork to another branch or fork
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Not merging the branch or fork to another branch or fork
+  * :worried: = Merging the branch or fork when there are merge conflicts still present in the original
+  * :neutral_face: = Merging the branch or fork with no merge conflicts, but without adding reviewers to merge
+  * :blush: = Merging the branch or fork with no merge conflicts and with reviewers, but with no comments about what it is  
+  * :laughing: = Merging the branch or fork with no merge conflicts, with reviewers, and with a description about what it is
 
 * Creating and reviewing a pull request
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Do not know how to review a pull request
+  * :worried: = Have knowledge of pull requests, but fail to act upon it
+  * :neutral_face: = Review pull requests and act on steps required, but fail to know how to fix all conflicts
+  * :blush: = Review pull requests and act on steps required while avoiding merge conflicts
+  * :laughing: = Review pull requests, act on steps required, avoid merge conflicts, and add comments
 
 * Using appropriate commit messages
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = The student doesn't write any commit message.
+  * :worried: = Student writes a non descriptive, unrelated commit message.
+  * :neutral_face: = Student writes a related commit message without description.
+  * :blush: = Student writes a related commit message with description.
+  * :laughing: = Student writes a related commit message with description outlining what was changed since last commit.
 
 ### Continuous Integration with Github Actions
 
