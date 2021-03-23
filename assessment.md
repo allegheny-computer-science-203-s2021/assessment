@@ -372,11 +372,11 @@ TODO: add description for each assessment level for this skill.
 
 The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
 
-    - :flushed: = Refuses to interact with and/or work with customers. Ignores specifics and details regarding the tool from the customer.
-    - :worried: = Interacts with and occasionally communicates with the customer, but does not actively participate in completing tasks addressed by the customer.
-    - :neutral_face: = Interacts with and works with the customers actively while completing most of the tasks assigned to them by the customer
-    - :blush: = Interacts with, works with, and actively collaborates with the customer. Completes all tasks assigned to them by customer.
-    - :laughing: = Interacts with, works with, and actively collaborates with the customer. The group of individual are always open to critique and additions from the customer regarding functionality and tools. Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
+  * :flushed: = Refuses to interact with and/or work with customers. Ignores specifics and details regarding the tool from the customer.
+  * :worried: = Interacts with and occasionally communicates with the customer, but does not actively participate in completing tasks addressed by the customer.
+  * :neutral_face: = Interacts with and works with the customers actively while completing most of the tasks assigned to them by the customer
+  * :blush: = Interacts with, works with, and actively collaborates with the customer. Completes all tasks assigned to them by customer.
+  * :laughing: = Interacts with, works with, and actively collaborates with the customer. The group of individual are always open to critique and additions from the customer regarding functionality and tools. Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
 
 * Interaction with the team leaders
 
