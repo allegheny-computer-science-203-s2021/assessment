@@ -408,17 +408,42 @@ TODO: add description for each assessment level for this skill.
 ### Interactions
 
 * Interaction with the customers
+  - SERVICE
+  - Social
+  - Eager
+  - Replace
+  - Verbal Communication
+  - Informative
+  - Countability
+  - Easy
+  The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Refuses to interact with and/or work with customers. Ignores specifics and details regarding the tool from the customer.
+  * :worried: = Interacts with and occasionally communicates with the customer, but does not actively participate in completing tasks addressed by the customer.
+  * :neutral_face: = Interacts with and works with the customers actively while completing most of the tasks assigned to them by the customer
+  * :blush: = Interacts with, works with, and actively collaborates with the customer. Completes all tasks assigned to them by customer.
+  * :laughing: = Interacts with, works with, and actively collaborates with the customer. The group of individual are always open to critique and additions from the customer regarding functionality and tools. Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
 
 * Interaction with the team leaders
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: =  Refuses to interact with and/or work with team leader(s). Ignores advisement or assignment from team leader.
+  * :worried: = Interacts with and occasionally works with the team leader(s), but does not actively participate in completing tasks assigned by the team leader(s).
+  * :neutral_face: = Interacts with and works with the team leader(s) while completing most of the tasks assigned to them by the team leader(s).
+  * :blush: = Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s).
+  * :laughing: = Interacts with, works with, and actively collaborates with the team leader(s). Completes all tasks assigned to them by the team leader(s) and offers additional help to expedite the completion of other related tasks to complete the project.
 
 * Interaction with the course instructor
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Students do not have any conversation with the instructor except attending the class and not participating.
+  * :worried: = Ask questions during class time occasionally but do not listen nor complete assignments given by the instructor. Do not show any effort to improve their knowledge.
+  * :neutral_face: = Show up to the instructors office hours inconsistently. However, students ask and answer the instructor's questions and show eager to learn and develop. Complete the assignments in time.
+  * :blush: = Students have appropriate specific questions about programming/ technical problems. Interacts with the instructor in a proper manner and discuss solutions of their labs or practicals.
+  * :laughing: = Come to the office hours consistently with their class assignments. Students are open to talk about their process and progress in the class and ask for personal recommendations. Additionally, students are fluent to communicate through in-person and Slack.
 
 * Interaction with the student technical leaders
 
-TODO: add description for each assessment level for this skill.
+  * :flushed: = Students don't ask or raise their own concern with TLs at any point of the class. Students also don't response to any question of TL on the chat or on Zoom.
+  * :worried: = Students ask or raise their concern no more than 3 times during the class, lab, and practicals. These students seldomly response to TLs' question.
+  * :neutral_face: = These students ask or raise their concern occasionally during the class. They come up with constructive question and corporate with TLs on difficult task. They contact with TLs frequently.
+  * :blush: = These students frequently voice out their concerns during the class with TLs. They have an effective communication with TLs through asking questions and responding matter asked by TLs.
+  * :laughing: = These students regularly voice out their concerns during the class with TLs. They have an effective communication with TLs in and outside of class. They also come to TLs' office hours to discuss their problem with the assignments.
