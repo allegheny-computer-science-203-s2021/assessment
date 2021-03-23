@@ -2,8 +2,6 @@
 
 ## Assessment Key
 
-Replace TODOs with abbreviations, or emoji, or ...
-
 * :flushed: = None
 * :worried: = Inadequate
 * :neutral_face: = Adequate
@@ -188,12 +186,12 @@ Replace TODOs with abbreviations, or emoji, or ...
   * :blush: = Set up a Github Actions CI workflow that streamlines and makes process consistent among devices that have different installations.
   * :laughing: = Streamlines all major angles of project including testing and general communication using Github Actions CI.
 
-  * Performing secure releases of project deliverables
-    * :flushed: = Little to no awareness of security settings or features such as secrets on deliverables.
-    * :worried: = Able to set up some security features on Github Actions CI. Doesn't set up appropriate features consistently or regularly use secrets. for sensitive information.
-    * :neutral_face: = Able to set up security features such as secrets and settings on Github Actions CI and makes a minimum effort to set up security settings and use secrets for their project.
-    * :blush: = Uses secrets for all sensitive information and often uses Github security settings in way that is well-suited to the project while setting up the project.
-    * :laughing: = Uses secrets for all sensitive information and consistently uses Github security settings in a way that is best-suited to their project.
+* Performing secure releases of project deliverables
+  * :flushed: = Little to no awareness of security settings or features such as secrets on deliverables.
+  * :worried: = Able to set up some security features on Github Actions CI. Doesn't set up appropriate features consistently or regularly use secrets. for sensitive information.
+  * :neutral_face: = Able to set up security features such as secrets and settings on Github Actions CI and makes a minimum effort to set up security settings and use secrets for their project.
+  * :blush: = Uses secrets for all sensitive information and often uses Github security settings in way that is well-suited to the project while setting up the project.
+  * :laughing: = Uses secrets for all sensitive information and consistently uses Github security settings in a way that is best-suited to their project.
 
 * Creating third-party integrations with GitHub Actions CI (e.g., codecov.io)
   * :flushed: = Does not create third-party integrations with GitHub Actions CI.
