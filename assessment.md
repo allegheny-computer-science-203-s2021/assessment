@@ -409,16 +409,16 @@
 
 * Interaction with the customers
 
-  - SERVICE
-  - Social
-  - Eager
-  - Replace
-  - Verbal Communication
-  - Informative
-  - Countability
-  - Easy
-
 The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
+ 
+*SERVICE*
+  * Social
+  * Eager
+  * Replace
+  * Verbal Communication
+  * Informative
+  * Countability
+  * Easy
 
   * :flushed: = Refuses to interact with and/or work with customers. Ignores specifics and details regarding the tool from the customer.
   * :worried: = Interacts with and occasionally communicates with the customer, but does not actively participate in completing tasks addressed by the customer.
