@@ -417,7 +417,7 @@
 
 The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
 
-*SERVICE:*
+* SERVICE
 
   * Social
   * Eager
