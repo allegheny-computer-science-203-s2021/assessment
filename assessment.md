@@ -408,6 +408,7 @@
 ### Interactions
 
 * Interaction with the customers
+
   - SERVICE
   - Social
   - Eager
@@ -416,6 +417,7 @@
   - Informative
   - Countability
   - Easy
+ 
   The objective for the interaction with a customer is supposed to be smooth and easy. Interacting with customers is one of the most important parts of software engineering. The acronym of "SERVICE" is a great way for us to see what attributes and tendencies lead to good service.
 
   * :flushed: = Refuses to interact with and/or work with customers. Ignores specifics and details regarding the tool from the customer.
