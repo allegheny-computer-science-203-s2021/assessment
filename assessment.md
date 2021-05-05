@@ -312,7 +312,7 @@
   * Python software development
   * Python software testing
   * Project management with GitHub
-  * Continuous integration with Travis CI
+  * Continuous integration with GitHub Actions CI
   * Foundations of software engineering
 
 * Continuous learning
@@ -321,8 +321,6 @@
   * :neutral_face: = Willing to cooperate with others, helping others learn the material, and showing Understanding of the material.  
   * :blush: = Willing to cooperate with his/her team members, solve/offer solutions to problems, has a good Foundations for software engineering, and understands how to use Python  
   * :laughing: = Willing to communicate with others, has great attitude for learning and improving. Has mastery of Python and software engineering. Willing to help others solve/resolve problems.  
-
-* Understanding and avoiding red flags
 
 * Understanding and adopting best practices
   * :flushed: = Does not understand and perform best practices.
